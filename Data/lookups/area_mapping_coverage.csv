@@ -1,0 +1,9 @@
+source,key,key_type,dominant_dld_area,candidates,reason
+area_reference.csv,JLT,common_alias,Al Thanyah Fifth,Al Thanyah Fifth | Al Thanyah Third,alias_maps_to_multiple_dld_areas
+area_mapping.json,Arabian Ranches - 1,alias_or_marketing,Wadi Al Safa 6,Al Hebiah Second | Wadi Al Safa 6,maps_to_multiple_dld_areas
+area_mapping.json,Dubai Water Canal,alias_or_marketing,Al Wasl,Al Wasl | Jumeirah Second,maps_to_multiple_dld_areas
+area_mapping.json,JLT,alias_or_marketing,Al Thanyah Fifth,Al Thanyah Fifth | Al Thanyah Third,maps_to_multiple_dld_areas
+area_mapping.json,Jumeirah Lakes Towers,alias_or_marketing,Al Thanyah Fifth,Al Thanyah Fifth | Al Thanyah Third,maps_to_multiple_dld_areas
+area_reference.csv,Arabian Ranches - 1,master_project_en,Al Hebiah Second,Al Hebiah Second | Wadi Al Safa 6,master_project_en_maps_to_multiple_dld_areas
+area_reference.csv,Dubai Water Canal,master_project_en,Al Wasl,Al Wasl | Jumeirah Second,master_project_en_maps_to_multiple_dld_areas
+area_reference.csv,Jumeirah Lakes Towers,master_project_en,Al Thanyah Fifth,Al Thanyah Fifth | Al Thanyah Third,master_project_en_maps_to_multiple_dld_areas

@@ -1,0 +1,974 @@
+area_name,bedrooms,median_annual_rent,rent_count,median_rent_sqft
+AL Athbah,3BR,157500.0,4,368.23
+AL Athbah,4BR,180000.0,19,471.09
+AL Athbah,5BR,240000.0,25,446.43
+AL Athbah,6BR+,302500.0,8,521.0
+AL MIZHAR FOURTH,3BR,96000.0,5,131.58
+AL MIZHAR FOURTH,4BR,90500.0,4,181.65
+AL QUSAIS,1BR,40000.0,4482,681.08
+AL QUSAIS,2BR,52300.0,5418,544.44
+AL QUSAIS,3BR,74550.0,588,545.67
+AL QUSAIS,4BR,113000.0,10,607.29
+AL QUSAIS,Penthouse,89000.0,2,619.53
+AL QUSAIS,Studio,28350.0,649,769.23
+AL TWAR FIFTH,1BR,42000.0,1157,630.77
+AL TWAR FIFTH,2BR,57000.0,1000,562.5
+AL TWAR FIFTH,3BR,80000.0,204,495.93
+AL TWAR FIFTH,4BR,167500.0,12,456.99
+AL TWAR FIFTH,5BR,160000.0,13,550.62
+AL TWAR FIFTH,6BR+,192500.0,6,338.99
+AL TWAR FIFTH,Studio,30000.0,142,1071.43
+Abu Hail,1BR,35000.0,898,500.0
+Abu Hail,2BR,36000.0,475,388.89
+Abu Hail,3BR,79380.0,371,400.0
+Abu Hail,4BR,100000.0,102,355.33
+Abu Hail,5BR,140000.0,72,400.0
+Abu Hail,6BR+,150000.0,85,433.21
+Abu Hail,Studio,30000.0,83,1000.0
+Al Aweer First,1BR,20000.0,3,356.71
+Al Aweer First,2BR,20000.0,10,331.01
+Al Aweer First,3BR,130000.0,34,344.51
+Al Aweer First,4BR,170000.0,56,283.05
+Al Aweer First,5BR,200000.0,67,336.39
+Al Aweer First,6BR+,213334.0,20,330.1
+Al Aweer First,Studio,27000.0,36,800.0
+Al Aweer Second,1BR,30000.0,6,428.57
+Al Aweer Second,2BR,34650.0,16,363.9
+Al Aweer Second,3BR,33000.0,4,1818.89
+Al Aweer Second,5BR,160000.0,3,344.83
+Al Aweer Second,Duplex,25700.0,2,25700.0
+Al Aweer Second,Studio,25000.0,7,786.5
+Al Bada,1BR,59535.0,1318,960.32
+Al Bada,2BR,75000.0,863,750.0
+Al Bada,3BR,149500.0,989,562.63
+Al Bada,4BR,170000.0,375,597.04
+Al Bada,5BR,187000.0,65,600.0
+Al Bada,6BR+,220000.0,63,441.0
+Al Bada,Studio,40000.0,448,1175.74
+Al Baraha,1BR,35000.0,515,646.8
+Al Baraha,2BR,47950.0,346,539.22
+Al Baraha,3BR,97000.0,42,528.48
+Al Baraha,4BR,126788.0,60,407.68
+Al Baraha,5BR,141875.0,36,295.98
+Al Baraha,6BR+,157500.0,8,315.21
+Al Baraha,Room,22150.0,2,1465.76
+Al Baraha,Studio,24000.0,2157,882.35
+Al Barsha First,1BR,63000.0,5804,879.12
+Al Barsha First,2BR,85000.0,5342,770.49
+Al Barsha First,3BR,121000.0,865,714.29
+Al Barsha First,4BR,220000.0,468,656.64
+Al Barsha First,5BR,234025.0,223,539.82
+Al Barsha First,6BR+,1400000.0,1,632.91
+Al Barsha First,Studio,43818.0,629,1166.67
+Al Barsha Second,2BR,90416.0,4,86.08
+Al Barsha Second,3BR,180000.0,22,517.81
+Al Barsha Second,4BR,220000.0,75,331.86
+Al Barsha Second,5BR,320000.0,127,346.88
+Al Barsha Second,6BR+,330000.0,53,466.28
+Al Barsha South Fifth,1BR,69000.0,1159,833.33
+Al Barsha South Fifth,2BR,115250.0,720,630.42
+Al Barsha South Fifth,3BR,200000.0,75,837.7
+Al Barsha South Fifth,4BR,225000.0,26,2792.21
+Al Barsha South Fifth,5BR,327500.0,12,589.2
+Al Barsha South Fifth,6BR+,400000.0,1,761.9
+Al Barsha South Fifth,Studio,45000.0,981,1105.26
+Al Barsha South Fourth,1BR,70000.0,13909,942.03
+Al Barsha South Fourth,2BR,95000.0,4498,833.33
+Al Barsha South Fourth,3BR,150000.0,796,872.96
+Al Barsha South Fourth,4BR,190000.0,438,993.98
+Al Barsha South Fourth,5BR,210000.0,43,882.35
+Al Barsha South Fourth,Duplex,73725.0,14,477.16
+Al Barsha South Fourth,Penthouse,119552.0,6,1077.75
+Al Barsha South Fourth,Room,100000.0,1,1333.33
+Al Barsha South Fourth,Studio,48500.0,7379,1200.0
+Al Barsha Third,1BR,52426.0,2,27872.93
+Al Barsha Third,2BR,65000.0,3,96.15
+Al Barsha Third,3BR,175000.0,23,385.0
+Al Barsha Third,4BR,235000.0,65,284.7
+Al Barsha Third,5BR,333500.0,108,330.94
+Al Barsha Third,6BR+,400000.0,67,323.28
+Al Barshaa South First,2BR,190000.0,1,279.41
+Al Barshaa South First,3BR,160000.0,17,206.46
+Al Barshaa South First,4BR,247500.0,36,346.15
+Al Barshaa South First,5BR,340000.0,71,358.91
+Al Barshaa South First,6BR+,480000.0,24,339.37
+Al Barshaa South Second,1BR,69000.0,417,969.7
+Al Barshaa South Second,2BR,110000.0,226,952.38
+Al Barshaa South Second,3BR,225000.0,99,770.9
+Al Barshaa South Second,4BR,310000.0,73,753.5
+Al Barshaa South Second,5BR,331980.0,112,534.89
+Al Barshaa South Second,6BR+,450000.0,25,427.42
+Al Barshaa South Second,Penthouse,215000.0,2,1080.4
+Al Barshaa South Second,Studio,47000.0,305,1200.0
+Al Barshaa South Third,1BR,63000.0,5253,810.13
+Al Barshaa South Third,2BR,87000.0,2720,761.06
+Al Barshaa South Third,3BR,150000.0,255,852.27
+Al Barshaa South Third,4BR,300000.0,1,630.25
+Al Barshaa South Third,6BR+,70000.0,1,786.52
+Al Barshaa South Third,Studio,45000.0,3882,1078.95
+Al Buteen,1BR,46000.0,185,771.43
+Al Buteen,2BR,58000.0,128,773.01
+Al Buteen,3BR,67500.0,12,749.78
+Al Buteen,4BR,76000.0,2,878.68
+Al Buteen,Studio,32000.0,133,1142.86
+Al Dhagaya,1BR,42000.0,364,938.0
+Al Dhagaya,2BR,55125.0,164,860.58
+Al Dhagaya,3BR,55002.0,12,833.4
+Al Dhagaya,4BR,135000.0,1,2547.17
+Al Dhagaya,6BR+,53149.0,1,53149.0
+Al Dhagaya,Studio,34000.0,459,1348.84
+Al Eyas,1BR,20000.0,2,444.44
+Al Eyas,Studio,25000.0,5,555.56
+Al Garhoud,1BR,68000.0,569,848.84
+Al Garhoud,2BR,94000.0,1125,794.12
+Al Garhoud,3BR,131250.0,367,818.27
+Al Garhoud,4BR,160000.0,393,575.58
+Al Garhoud,5BR,176000.0,161,517.82
+Al Garhoud,6BR+,200000.0,11,508.37
+Al Garhoud,Studio,40998.0,60,714.29
+Al Goze First,1BR,47225.0,50,600.0
+Al Goze First,2BR,63000.0,38,563.03
+Al Goze First,3BR,119839.0,38,210.46
+Al Goze First,4BR,130000.0,45,199.0
+Al Goze First,5BR,240000.0,43,334.08
+Al Goze First,6BR+,222500.0,64,357.71
+Al Goze First,Studio,48100.0,6,707.3
+Al Goze Fourth,1BR,52800.0,1200,779.84
+Al Goze Fourth,2BR,55440.0,769,569.24
+Al Goze Fourth,3BR,70875.0,100,527.71
+Al Goze Fourth,4BR,180000.0,20,311.46
+Al Goze Fourth,5BR,190000.0,42,547.11
+Al Goze Fourth,6BR+,222400.0,8,269.32
+Al Goze Fourth,Studio,45000.0,1176,1087.6
+Al Goze Industrial First,1BR,261200.0,28,5557.45
+Al Goze Industrial First,Studio,261200.0,5,8162.5
+Al Goze Industrial Fourth,Studio,72000.0,85,3789.47
+Al Goze Industrial Second,1BR,41800.0,1896,685.17
+Al Goze Industrial Second,2BR,58212.0,4815,547.83
+Al Goze Industrial Second,3BR,84000.0,38,497.04
+Al Goze Industrial Second,Room,4153804.0,1,807.19
+Al Goze Industrial Second,Studio,35000.0,2292,1090.91
+Al Goze Industrial Third,Studio,576000.0,317,25000.0
+Al Goze Third,1BR,58000.0,181,759.49
+Al Goze Third,2BR,77000.0,38,682.41
+Al Goze Third,Studio,85500.0,267,1973.33
+Al Hamriya,1BR,50000.0,2052,833.33
+Al Hamriya,2BR,72000.0,1484,709.61
+Al Hamriya,3BR,105000.0,226,641.53
+Al Hamriya,4BR,145000.0,18,761.9
+Al Hamriya,5BR,90000.0,1,
+Al Hamriya,6BR+,200000.0,1,574.71
+Al Hamriya,Studio,35000.0,917,1350.0
+Al Hebiah Fifth,1BR,52800.0,1051,781.25
+Al Hebiah Fifth,2BR,73500.0,727,688.09
+Al Hebiah Fifth,3BR,100000.0,164,580.65
+Al Hebiah Fifth,4BR,192500.0,10,1336.81
+Al Hebiah Fifth,5BR,240000.0,3,1090.91
+Al Hebiah Fifth,Studio,40000.0,298,932.58
+Al Hebiah First,1BR,66000.0,1028,727.51
+Al Hebiah First,2BR,106500.0,611,697.7
+Al Hebiah First,3BR,175000.0,218,748.74
+Al Hebiah First,4BR,261750.0,40,646.18
+Al Hebiah First,5BR,480000.0,10,689.01
+Al Hebiah First,Studio,44422.0,279,764.71
+Al Hebiah Fourth,1BR,55000.0,3385,729.17
+Al Hebiah Fourth,2BR,77000.0,1443,669.01
+Al Hebiah Fourth,3BR,195000.0,491,1339.66
+Al Hebiah Fourth,4BR,310000.0,673,1123.76
+Al Hebiah Fourth,5BR,500000.0,274,898.13
+Al Hebiah Fourth,6BR+,825000.0,13,645.16
+Al Hebiah Fourth,Penthouse,140000.0,1,633.48
+Al Hebiah Fourth,Studio,40000.0,3542,952.38
+Al Hebiah Second,1BR,68000.0,589,994.65
+Al Hebiah Second,2BR,90000.0,198,764.81
+Al Hebiah Second,3BR,110000.0,33,721.88
+Al Hebiah Second,5BR,600863.0,1,354.7
+Al Hebiah Second,6BR+,1300000.0,7,591.99
+Al Hebiah Second,Studio,46000.0,458,1261.9
+Al Hebiah Sixth,1BR,63000.0,40,1015.62
+Al Hebiah Sixth,2BR,120000.0,47,916.67
+Al Hebiah Sixth,3BR,180000.0,570,887.16
+Al Hebiah Sixth,4BR,236500.0,275,684.21
+Al Hebiah Sixth,5BR,281250.0,28,559.41
+Al Hebiah Third,1BR,70000.0,1227,1034.48
+Al Hebiah Third,2BR,120000.0,334,965.84
+Al Hebiah Third,3BR,195000.0,692,771.6
+Al Hebiah Third,4BR,230000.0,299,982.53
+Al Hebiah Third,5BR,400000.0,128,782.39
+Al Hebiah Third,6BR+,500000.0,16,864.29
+Al Hebiah Third,Studio,45000.0,1320,1105.26
+Al Hudaiba,1BR,58800.0,633,740.38
+Al Hudaiba,2BR,73500.0,915,574.81
+Al Hudaiba,3BR,105000.0,305,524.32
+Al Hudaiba,4BR,4200000.0,70,12500.0
+Al Hudaiba,5BR,212500.0,36,501.11
+Al Hudaiba,6BR+,290000.0,8,197.64
+Al Hudaiba,Studio,51700.0,127,1486.49
+Al Jadaf,1BR,68000.0,3344,928.14
+Al Jadaf,2BR,85000.0,3122,729.42
+Al Jadaf,3BR,130000.0,493,753.23
+Al Jadaf,4BR,160000.0,27,813.49
+Al Jadaf,Studio,54000.0,1168,1346.15
+Al Jafliya,1BR,65000.0,119,815.22
+Al Jafliya,2BR,63403.0,171,545.45
+Al Jafliya,3BR,78000.0,151,475.31
+Al Jafliya,4BR,177500.0,118,1002.04
+Al Jafliya,5BR,210000.0,101,553.21
+Al Jafliya,6BR+,227750.0,52,606.62
+Al Jafliya,Studio,41505.0,34,1500.0
+Al Karama,1BR,55650.0,3417,784.31
+Al Karama,2BR,68999.0,6867,647.27
+Al Karama,3BR,91000.0,933,591.47
+Al Karama,4BR,113630.0,36,404.2
+Al Karama,5BR,555000.0,9,3775.51
+Al Karama,Duplex,141000.0,6,710.51
+Al Karama,Studio,43000.0,1365,1526.07
+Al Khabeesi,1BR,40000.0,34,476.36
+Al Khabeesi,2BR,51000.0,33,386.57
+Al Khabeesi,3BR,125000.0,11,558.14
+Al Khabeesi,4BR,85000.0,4,728.23
+Al Khabeesi,6BR+,101350.0,2,341.69
+Al Khairan First,1BR,100000.0,2161,1428.57
+Al Khairan First,2BR,150000.0,2241,1390.73
+Al Khairan First,3BR,219410.0,803,1380.6
+Al Khairan First,4BR,450000.0,41,1466.43
+Al Khawaneej First,2BR,60000.0,3,56.09
+Al Khawaneej First,3BR,150000.0,19,125.56
+Al Khawaneej First,4BR,198175.0,34,253.38
+Al Khawaneej First,5BR,262500.0,63,367.55
+Al Khawaneej First,6BR+,280000.0,37,214.35
+Al Khawaneej Second,1BR,37800.0,15,761.9
+Al Khawaneej Second,2BR,80000.0,3,489.63
+Al Khawaneej Second,3BR,150000.0,19,169.53
+Al Khawaneej Second,4BR,182500.0,44,266.0
+Al Khawaneej Second,5BR,230000.0,43,370.56
+Al Khawaneej Second,6BR+,270000.0,12,379.13
+Al Khawaneej Second,Studio,35000.0,24,1085.34
+Al Kheeran,1BR,88000.0,257,1023.68
+Al Kheeran,2BR,149000.0,292,1006.49
+Al Kheeran,3BR,199000.0,186,860.9
+Al Kheeran,4BR,272825.0,16,781.18
+Al Kheeran,5BR,280270.0,3,951.66
+Al Kheeran,6BR+,900000.0,1,2238.81
+Al Kheeran,Studio,31500.0,24,835.95
+Al Kifaf,1BR,108000.0,227,1220.93
+Al Kifaf,2BR,154000.0,323,1130.14
+Al Kifaf,3BR,230000.0,33,1175.0
+Al Kifaf,4BR,400000.0,3,1049.87
+Al Kifaf,5BR,337500.0,2,831.66
+Al Lusaily,1BR,39946.0,84,633.12
+Al Lusaily,2BR,41000.0,24,325.76
+Al Lusaily,3BR,55000.0,5,39191.0
+Al Lusaily,4BR,49973.0,1,11.11
+Al Lusaily,Studio,30000.0,103,909.09
+Al Maha,1BR,22800.0,2,24000.0
+Al Maha,2BR,24000.0,1,24000.0
+Al Mamzer,1BR,50000.0,1164,658.66
+Al Mamzer,2BR,68000.0,2354,537.4
+Al Mamzer,3BR,89425.0,374,521.98
+Al Mamzer,4BR,140000.0,8,310.99
+Al Mamzer,5BR,214500.0,10,635.26
+Al Mamzer,6BR+,205008.0,26,210.34
+Al Mamzer,Studio,39358.0,118,740.74
+Al Manara,1BR,42500.0,1,817.31
+Al Manara,2BR,34000.0,1,8.21
+Al Manara,3BR,163721.0,92,744.18
+Al Manara,4BR,260000.0,186,648.28
+Al Manara,5BR,275000.0,134,533.87
+Al Manara,6BR+,482500.0,18,435.36
+Al Manara,Duplex,250000.0,3,681.2
+Al Mararr,1BR,39000.0,1227,800.0
+Al Mararr,2BR,50074.0,430,774.6
+Al Mararr,3BR,60000.0,73,1165.8
+Al Mararr,4BR,51000.0,1,579.55
+Al Mararr,Room,32500.0,4,968.75
+Al Mararr,Studio,27000.0,4269,1000.0
+Al Marmoom,Studio,50000.0,38,2041.13
+Al Merkadh,1BR,85000.0,4264,1460.87
+Al Merkadh,2BR,135000.0,1580,1371.38
+Al Merkadh,3BR,190000.0,318,1364.88
+Al Merkadh,4BR,800000.0,158,1507.51
+Al Merkadh,5BR,1200000.0,74,1538.02
+Al Merkadh,6BR+,2000000.0,24,1574.4
+Al Merkadh,Studio,50000.0,4124,1548.44
+Al Mizhar First,1BR,50000.0,1,89.77
+Al Mizhar First,2BR,75000.0,2,110000.0
+Al Mizhar First,3BR,148500.0,14,345.29
+Al Mizhar First,4BR,180000.0,27,204.91
+Al Mizhar First,5BR,200000.0,34,197.27
+Al Mizhar First,6BR+,240000.0,22,206.24
+Al Mizhar Second,2BR,45500.0,2,19.38
+Al Mizhar Second,3BR,125000.0,15,428.22
+Al Mizhar Second,4BR,180000.0,12,295.14
+Al Mizhar Second,5BR,190000.0,23,279.77
+Al Mizhar Second,6BR+,280000.0,7,225.08
+Al Mizhar Third,2BR,72000.0,1,378.95
+Al Mizhar Third,3BR,140000.0,7,134.53
+Al Mizhar Third,4BR,145000.0,17,199.63
+Al Mizhar Third,5BR,185000.0,20,225.99
+Al Mizhar Third,6BR+,275000.0,9,331.33
+Al Murqabat,1BR,55125.0,3129,820.0
+Al Murqabat,2BR,78000.0,4476,750.0
+Al Murqabat,3BR,108000.0,2041,726.04
+Al Murqabat,4BR,135000.0,65,584.8
+Al Murqabat,5BR,200000.0,7,694.44
+Al Murqabat,6BR+,200000.0,1,343.64
+Al Murqabat,Studio,38000.0,724,1110.28
+Al Muteena,1BR,49999.0,2397,747.93
+Al Muteena,2BR,66000.0,1297,646.96
+Al Muteena,3BR,89250.0,331,577.04
+Al Muteena,4BR,100000.0,64,35672.65
+Al Muteena,5BR,150000.0,16,500.0
+Al Muteena,6BR+,220000.0,27,731.23
+Al Muteena,Room,45000.0,1,75.0
+Al Muteena,Studio,35280.0,1468,958.82
+Al Nahda First,1BR,45000.0,4077,625.0
+Al Nahda First,2BR,59000.0,5108,516.76
+Al Nahda First,3BR,85000.0,1085,574.93
+Al Nahda First,4BR,97520.0,15,590.06
+Al Nahda First,5BR,135000.0,3,267.18
+Al Nahda First,Duplex,66000.0,2,345.55
+Al Nahda First,Studio,33800.0,521,916.67
+Al Nahda Second,1BR,42500.0,6335,632.5
+Al Nahda Second,2BR,55000.0,8718,560.75
+Al Nahda Second,3BR,73500.0,724,569.85
+Al Nahda Second,4BR,78500.0,46,471.7
+Al Nahda Second,5BR,140000.0,1,140000.0
+Al Nahda Second,Penthouse,54000.0,1,1000.0
+Al Nahda Second,Studio,32000.0,297,603.45
+Al Qoaz,4BR,102500.0,2,23.14
+Al Qusais Industrial Fifth,1BR,40000.0,2657,547.95
+Al Qusais Industrial Fifth,2BR,50000.0,3391,465.35
+Al Qusais Industrial Fifth,3BR,61000.0,760,466.92
+Al Qusais Industrial Fifth,4BR,75900.0,3,356.34
+Al Qusais Industrial Fifth,Studio,29500.0,323,711.11
+Al Qusais Industrial First,1BR,45000.0,492,653.06
+Al Qusais Industrial First,2BR,68000.0,1069,18615.38
+Al Qusais Industrial First,3BR,26136000.0,125,14336.81
+Al Qusais Industrial First,4BR,90000.0,3,410.96
+Al Qusais Industrial First,6BR+,48300.0,1,
+Al Qusais Industrial First,Studio,36000.0,360,866.67
+Al Qusais Industrial Fourth,1BR,42000.0,300,580.25
+Al Qusais Industrial Fourth,2BR,55000.0,455,517.86
+Al Qusais Industrial Fourth,3BR,74000.0,45,503.65
+Al Qusais Industrial Fourth,Studio,32000.0,13,566.04
+Al Qusais Industrial Second,1BR,35598.0,258,583.47
+Al Qusais Industrial Second,2BR,63000.0,426,464.29
+Al Qusais Industrial Second,3BR,76000.0,77,400.0
+Al Qusais Industrial Second,Studio,25410.0,49,25200.0
+Al Qusais Industrial Third,1BR,45750.0,154,688.04
+Al Qusais Industrial Third,2BR,60000.0,259,617.65
+Al Qusais Industrial Third,3BR,77000.0,5,430.17
+Al Raffa,1BR,50000.0,3091,803.57
+Al Raffa,2BR,70000.0,2978,650.0
+Al Raffa,3BR,90405.0,643,583.82
+Al Raffa,4BR,110000.0,32,418.25
+Al Raffa,5BR,150000.0,3,815.57
+Al Raffa,6BR+,170000.0,3,2071.71
+Al Raffa,Duplex,113400.0,55,406.36
+Al Raffa,Penthouse,47000.0,1,338.13
+Al Raffa,Studio,40000.0,1249,1071.43
+Al Ras,1BR,50000.0,326,840.66
+Al Ras,2BR,60000.0,253,707.96
+Al Ras,3BR,93000.0,51,770.05
+Al Ras,4BR,68000.0,1,544.0
+Al Ras,Studio,32000.0,222,1250.0
+Al Rashidiya,1BR,45045.0,97,735.84
+Al Rashidiya,2BR,63000.0,128,541.28
+Al Rashidiya,3BR,104000.0,277,373.13
+Al Rashidiya,4BR,120000.0,197,442.48
+Al Rashidiya,5BR,142115.0,98,373.03
+Al Rashidiya,6BR+,130000.0,91,389.22
+Al Rashidiya,Studio,30999.0,205,969.67
+Al Rega,1BR,51818.0,457,805.82
+Al Rega,2BR,75066.0,658,719.3
+Al Rega,3BR,97650.0,488,675.0
+Al Rega,4BR,131000.0,22,724.6
+Al Rega,5BR,182500.0,2,626.35
+Al Rega,Duplex,310000.0,2,665.24
+Al Rega,Room,96600.0,1,558.38
+Al Rega,Studio,36960.0,523,1140.21
+Al Rowaiyah First,1BR,55000.0,7,723.68
+Al Rowaiyah First,2BR,73000.0,25,701.92
+Al Rowaiyah First,Studio,31000.0,138,1260.0
+Al Rowaiyah Third,1BR,35000.0,10,479.45
+Al Rowaiyah Third,2BR,85000.0,59,653.85
+Al Rowaiyah Third,3BR,92250.0,70,615.0
+Al Rowaiyah Third,4BR,115500.0,8,557.97
+Al Rowaiyah Third,5BR,97405.0,30,450.95
+Al Rowaiyah Third,6BR+,144000.0,1,666.67
+Al Sabkha,1BR,55000.0,67,1271.19
+Al Sabkha,2BR,73500.0,88,736.11
+Al Sabkha,3BR,74700.0,36,558.47
+Al Sabkha,Studio,36000.0,107,2153.85
+Al Saffa First,1BR,55000.0,415,821.92
+Al Saffa First,2BR,104500.0,195,798.91
+Al Saffa First,3BR,190000.0,164,164850.0
+Al Saffa First,4BR,252000.0,705,1422.41
+Al Saffa First,5BR,253000.0,63,235285.0
+Al Saffa First,6BR+,312139.0,29,284996.0
+Al Saffa Second,1BR,63250.0,35,913.08
+Al Saffa Second,2BR,93500.0,7,692.59
+Al Saffa Second,3BR,179025.0,77,788.29
+Al Saffa Second,4BR,218450.0,232,814.54
+Al Saffa Second,5BR,272500.0,91,663.19
+Al Saffa Second,6BR+,375000.0,17,461.13
+Al Saffa Second,Studio,42446.0,26,1403.12
+Al Safouh First,1BR,85000.0,194,1126.76
+Al Safouh First,2BR,100000.0,195,800.0
+Al Safouh First,3BR,180000.0,109,726.64
+Al Safouh First,4BR,235625.0,110,650.7
+Al Safouh First,5BR,367400.0,22,663.46
+Al Safouh First,6BR+,681081.0,1,821.57
+Al Safouh First,Studio,48755.0,116,891.17
+Al Safouh Second,1BR,84000.0,100,1033.22
+Al Safouh Second,2BR,131250.0,316,293.31
+Al Safouh Second,3BR,179225.0,281,959.26
+Al Safouh Second,4BR,200000.0,211,506.9
+Al Safouh Second,Duplex,107112.0,2,684.91
+Al Satwa,1BR,71500.0,2546,992.01
+Al Satwa,2BR,95000.0,2178,836.12
+Al Satwa,3BR,185250.0,230,969.02
+Al Satwa,4BR,230000.0,42,688.24
+Al Satwa,5BR,235982.0,28,520.66
+Al Satwa,6BR+,322494.0,114,1379.31
+Al Satwa,Duplex,2841750.0,1,2791.5
+Al Satwa,Penthouse,140000.0,1,639.27
+Al Satwa,Studio,52000.0,420,1294.12
+Al Suq Al Kabeer,1BR,47004.0,2165,782.34
+Al Suq Al Kabeer,2BR,65000.0,1529,650.0
+Al Suq Al Kabeer,3BR,80000.0,300,569.84
+Al Suq Al Kabeer,4BR,110000.0,33,403.51
+Al Suq Al Kabeer,Room,46000.0,1,1277.78
+Al Suq Al Kabeer,Studio,32500.0,2763,1250.0
+Al Thanayah Fourth,2BR,150000.0,908,723.22
+Al Thanayah Fourth,3BR,220500.0,1088,717.55
+Al Thanayah Fourth,4BR,353375.0,236,633.62
+Al Thanayah Fourth,5BR,430000.0,163,719.18
+Al Thanayah Fourth,6BR+,704134.0,38,722.08
+Al Thanyah Fifth,1BR,82000.0,3752,1081.08
+Al Thanyah Fifth,2BR,120000.0,2174,990.82
+Al Thanyah Fifth,3BR,220609.0,937,615.8
+Al Thanyah Fifth,4BR,367500.0,516,600.68
+Al Thanyah Fifth,5BR,500000.0,149,575.0
+Al Thanyah Fifth,6BR+,1000000.0,6,1140.39
+Al Thanyah Fifth,Duplex,187550.0,1,699.81
+Al Thanyah Fifth,Studio,60000.0,1515,1395.35
+Al Thanyah First,1BR,66000.0,2439,892.86
+Al Thanyah First,2BR,85000.0,2695,802.94
+Al Thanyah First,3BR,113999.0,327,693.08
+Al Thanyah First,4BR,134000.0,5,773.81
+Al Thanyah First,Duplex,102750.0,2,678.95
+Al Thanyah First,Penthouse,160000.0,22,919.28
+Al Thanyah First,Studio,60000.0,478,1276.6
+Al Thanyah Third,1BR,90000.0,1812,1194.03
+Al Thanyah Third,2BR,150000.0,1211,1156.72
+Al Thanyah Third,3BR,225000.0,649,1046.63
+Al Thanyah Third,4BR,346500.0,119,746.27
+Al Thanyah Third,5BR,487500.0,24,777.77
+Al Thanyah Third,6BR+,1200000.0,5,969.85
+Al Thanyah Third,Studio,60000.0,269,1428.57
+Al Ttay,1BR,630000.0,16,11460.0
+Al Ttay,2BR,224400.0,5,5100.0
+Al Ttay,3BR,224400.0,6,3252.17
+Al Twar First,1BR,35240.0,196,580.65
+Al Twar First,2BR,57000.0,224,476.92
+Al Twar First,3BR,88500.0,28,463.77
+Al Twar First,4BR,140000.0,33,360.59
+Al Twar First,5BR,150000.0,23,249.77
+Al Twar First,6BR+,190000.0,19,249.25
+Al Twar First,Studio,26000.0,20,830.65
+Al Twar Fourth,1BR,172000.0,1,2293.33
+Al Twar Fourth,2BR,80000.0,9,700.0
+Al Twar Fourth,3BR,88000.0,16,204.3
+Al Twar Fourth,4BR,145000.0,24,204.18
+Al Twar Fourth,5BR,118500.0,16,252.1
+Al Twar Fourth,6BR+,145000.0,20,483.93
+Al Twar Second,2BR,70000.0,3,233.65
+Al Twar Second,3BR,112500.0,4,166.25
+Al Twar Second,4BR,147500.0,8,187.44
+Al Twar Second,5BR,172015.0,12,270.39
+Al Twar Second,6BR+,180000.0,15,437.36
+Al Twar Third,1BR,80000.0,2,80000.0
+Al Twar Third,2BR,115000.0,4,20300.0
+Al Twar Third,3BR,130000.0,22,166.85
+Al Twar Third,4BR,180000.0,18,433.25
+Al Twar Third,5BR,210000.0,25,182.24
+Al Twar Third,6BR+,210000.0,16,179.47
+Al Waheda,1BR,73000.0,2,33053.91
+Al Waheda,2BR,60000.0,9,430.11
+Al Waheda,3BR,80108.0,50,298.56
+Al Waheda,4BR,98875.0,56,232.43
+Al Waheda,5BR,136800.0,59,403.37
+Al Waheda,6BR+,140000.0,98,407.33
+Al Warqa First,1BR,44000.0,4223,662.65
+Al Warqa First,2BR,60000.0,5204,575.95
+Al Warqa First,3BR,92000.0,535,620.44
+Al Warqa First,4BR,75000.0,29,350.47
+Al Warqa First,Duplex,56000.0,4,523.36
+Al Warqa First,Penthouse,86000.0,1,392.69
+Al Warqa First,Studio,34000.0,254,964.53
+Al Warqa Fourth,2BR,57500.0,2,99.92
+Al Warqa Fourth,3BR,135000.0,10,183.53
+Al Warqa Fourth,4BR,182500.0,34,568.2
+Al Warqa Fourth,5BR,240000.0,41,476.75
+Al Warqa Fourth,6BR+,267500.0,12,424.3
+Al Warqa Second,2BR,58500.0,4,117.47
+Al Warqa Second,3BR,130000.0,17,400.0
+Al Warqa Second,4BR,180000.0,28,169.92
+Al Warqa Second,5BR,230000.0,27,293.38
+Al Warqa Second,6BR+,236000.0,16,444.85
+Al Warqa Third,1BR,450000.0,1,404.68
+Al Warqa Third,2BR,60000.0,2,30026.98
+Al Warqa Third,3BR,132412.0,16,358.25
+Al Warqa Third,4BR,170000.0,42,179.37
+Al Warqa Third,5BR,200000.0,57,296.75
+Al Warqa Third,6BR+,250000.0,37,216.86
+Al Warsan First,1BR,39500.0,10100,567.19
+Al Warsan First,2BR,55000.0,2875,597.88
+Al Warsan First,3BR,105000.0,637,649.35
+Al Warsan First,4BR,93713.0,7,772.06
+Al Warsan First,5BR,110000.0,1,705.13
+Al Warsan First,Studio,28000.0,9389,636.36
+Al Warsan Second,2BR,184800.0,15,973.05
+Al Warsan Second,3BR,199238.0,32,510.81
+Al Warsan Second,4BR,279510.0,41,534.55
+Al Warsan Third,1BR,39000.0,128,582.09
+Al Warsan Third,Studio,2340000.0,273,61578.95
+Al Wasl,1BR,140000.0,448,1458.97
+Al Wasl,2BR,200000.0,818,1326.49
+Al Wasl,3BR,252684.0,412,1165.9
+Al Wasl,4BR,223388.0,225,658.02
+Al Wasl,5BR,295000.0,68,276.94
+Al Wasl,6BR+,325000.0,22,497.35
+Al Wasl,Duplex,549585.0,3,2954.76
+Al Wasl,Studio,56000.0,9,842.11
+Al Yelayiss 1,2BR,120750.0,1,559.03
+Al Yelayiss 1,3BR,155000.0,1173,643.78
+Al Yelayiss 1,4BR,190000.0,385,636.36
+Al Yelayiss 1,5BR,207000.0,3,643.94
+Al Yelayiss 2,1BR,57000.0,1566,1052.63
+Al Yelayiss 2,2BR,80000.0,1536,896.45
+Al Yelayiss 2,3BR,140000.0,1945,759.16
+Al Yelayiss 2,4BR,170000.0,417,611.89
+Al Yelayiss 2,Studio,40000.0,298,1312.5
+Al Yufrah 1,3BR,136500.0,355,775.86
+Al Yufrah 1,4BR,180000.0,99,697.67
+Al-Cornich,1BR,72460.0,352,889.25
+Al-Cornich,2BR,102275.0,605,777.16
+Al-Cornich,3BR,135994.0,268,741.61
+Al-Cornich,4BR,192500.0,12,894.5
+Al-Cornich,Studio,43832.0,108,1229.44
+Bukadra,2BR,93500.0,93,610.74
+Bukadra,3BR,138000.0,2,431.27
+Burj Khalifa,1BR,120000.0,4055,1421.99
+Burj Khalifa,2BR,180000.0,3664,1481.48
+Burj Khalifa,3BR,285000.0,1097,1632.65
+Burj Khalifa,4BR,850000.0,77,2464.79
+Burj Khalifa,5BR,1800000.0,11,2597.4
+Burj Khalifa,Penthouse,250000.0,1,623.44
+Burj Khalifa,Studio,75000.0,634,1607.92
+Business Bay,1BR,87500.0,6769,1224.49
+Business Bay,2BR,126000.0,4596,1052.43
+Business Bay,3BR,195000.0,1626,1077.68
+Business Bay,4BR,300000.0,120,919.55
+Business Bay,5BR,2050000.0,3,2041.83
+Business Bay,6BR+,858339.0,4,734.77
+Business Bay,Duplex,89250.0,3,362.8
+Business Bay,Penthouse,469000.0,1,760.13
+Business Bay,Studio,70000.0,3816,1551.38
+Dubai Investment Park First,1BR,80000.0,3125,1982.46
+Dubai Investment Park First,2BR,75000.0,1261,637.25
+Dubai Investment Park First,3BR,160722.0,200,571.43
+Dubai Investment Park First,4BR,305000.0,98,354.61
+Dubai Investment Park First,5BR,340000.0,31,383.31
+Dubai Investment Park First,6BR+,510000.0,1,468.75
+Dubai Investment Park First,Room,1500600.0,709,58114.29
+Dubai Investment Park First,Studio,45000.0,1682,1107.25
+Dubai Investment Park Second,1BR,56000.0,1794,714.29
+Dubai Investment Park Second,2BR,78650.0,323,581.25
+Dubai Investment Park Second,3BR,4000000.0,72,32786.89
+Dubai Investment Park Second,4BR,120638.0,16,543.41
+Dubai Investment Park Second,Studio,36750.0,1872,923.68
+Eyal Nasser,1BR,45000.0,495,923.08
+Eyal Nasser,2BR,55000.0,185,1000.0
+Eyal Nasser,3BR,58000.0,16,1232.88
+Eyal Nasser,4BR,69000.0,3,1285.71
+Eyal Nasser,Studio,30000.0,1081,1220.49
+Ghadeer Al tair,2BR,50000.0,1,
+Ghadeer Al tair,3BR,170000.0,11,183.05
+Ghadeer Al tair,4BR,250000.0,24,391.08
+Ghadeer Al tair,5BR,335000.0,52,425.15
+Ghadeer Al tair,6BR+,350000.0,11,463.36
+Grayteesah,Studio,882000.0,73,21512.2
+Hadaeq Sheikh Mohammed Bin Rashid,1BR,90000.0,1953,1540.0
+Hadaeq Sheikh Mohammed Bin Rashid,2BR,147000.0,1677,1526.32
+Hadaeq Sheikh Mohammed Bin Rashid,3BR,247596.0,1010,1288.34
+Hadaeq Sheikh Mohammed Bin Rashid,4BR,295000.0,770,1031.64
+Hadaeq Sheikh Mohammed Bin Rashid,5BR,382000.0,264,1108.35
+Hadaeq Sheikh Mohammed Bin Rashid,6BR+,1775000.0,42,1695.03
+Hadaeq Sheikh Mohammed Bin Rashid,Studio,55000.0,459,1473.68
+Hatta,1BR,25000.0,12,472.22
+Hatta,2BR,34000.0,5,269.84
+Hatta,3BR,45000.0,4,246.02
+Hatta,4BR,26500.0,2,900.0
+Hessyan First,1BR,41000.0,147,598.48
+Hessyan First,2BR,62000.0,123,585.11
+Hessyan First,3BR,87741.0,168,599.24
+Hessyan First,4BR,173423.0,84,216.37
+Hessyan First,5BR,210000.0,3,247.93
+Hessyan First,Studio,32025.0,67,680.85
+Hor Al Anz,1BR,40000.0,2279,720.0
+Hor Al Anz,2BR,50000.0,1403,500.1
+Hor Al Anz,3BR,80000.0,272,422.44
+Hor Al Anz,4BR,100000.0,127,614.22
+Hor Al Anz,5BR,126000.0,51,520.66
+Hor Al Anz,6BR+,128480.0,168,597.04
+Hor Al Anz,Studio,22000.0,916,733.33
+Hor Al Anz East,1BR,45000.0,1322,648.65
+Hor Al Anz East,2BR,63000.0,1700,543.48
+Hor Al Anz East,3BR,80000.0,463,519.77
+Hor Al Anz East,4BR,91856.0,36,410.26
+Hor Al Anz East,5BR,126750.0,4,55075.91
+Hor Al Anz East,6BR+,130000.0,15,186.0
+Hor Al Anz East,Studio,36000.0,332,1000.0
+Island 2,1BR,750000.0,14,5195.3
+Island 2,2BR,1000000.0,16,4892.34
+Island 2,3BR,1575000.0,20,5847.26
+Island 2,4BR,1500000.0,3,4087.19
+Island 2,5BR,3700000.0,1,7676.35
+Island 2,6BR+,8175000.0,2,5020.58
+Jabal Ali First,1BR,60000.0,8764,730.34
+Jabal Ali First,2BR,79000.0,5430,701.95
+Jabal Ali First,3BR,140882.0,1784,689.6
+Jabal Ali First,4BR,225000.0,888,723.11
+Jabal Ali First,5BR,350000.0,123,699.19
+Jabal Ali First,6BR+,370000.0,19,491.43
+Jabal Ali First,Studio,43000.0,9128,934.98
+Jabal Ali Industrial First,1BR,303600.0,821,20240.0
+Jabal Ali Industrial First,2BR,40000.0,300,2727.27
+Jabal Ali Industrial First,3BR,45000.0,98,3000.0
+Jabal Ali Industrial First,Studio,91200.0,1793,3672.0
+Jabal Ali Industrial Second,1BR,56700.0,317,859.38
+Jabal Ali Industrial Second,2BR,72000.0,89,684.21
+Jabal Ali Industrial Second,3BR,90000.0,25,586.42
+Jabal Ali Industrial Second,Studio,45000.0,410,1335.78
+Jumeirah First,1BR,105000.0,687,1265.31
+Jumeirah First,2BR,156000.0,718,973.38
+Jumeirah First,3BR,200000.0,456,701.22
+Jumeirah First,4BR,231000.0,540,663.06
+Jumeirah First,5BR,290000.0,294,643.55
+Jumeirah First,6BR+,400000.0,26,461.54
+Jumeirah First,Room,100000.0,1,1587.3
+Jumeirah First,Studio,43774.0,52,1110.25
+Jumeirah Second,1BR,85000.0,87,1167.25
+Jumeirah Second,2BR,121828.0,30,1126.27
+Jumeirah Second,3BR,178250.0,316,933.25
+Jumeirah Second,4BR,230423.0,217,632.91
+Jumeirah Second,5BR,304750.0,135,666.67
+Jumeirah Second,6BR+,500000.0,6,1169.62
+Jumeirah Third,1BR,194488.0,32,1354.9
+Jumeirah Third,2BR,260500.0,75,1201.92
+Jumeirah Third,3BR,187000.0,197,903.67
+Jumeirah Third,4BR,220000.0,289,668.37
+Jumeirah Third,5BR,265650.0,297,712.65
+Jumeirah Third,6BR+,410000.0,18,561.72
+Jumeirah Third,Studio,65748.0,3,1933.76
+Lehbab First,1BR,24000.0,11,489.8
+Lehbab First,6BR+,250000.0,1,52.63
+Lehbab First,Studio,20000.0,12,920.0
+Lehbab Second,1BR,30000.0,6,449.49
+Lehbab Second,2BR,30000.0,6,137.5
+Lehbab Second,3BR,30000.0,1,309.28
+Lehbab Second,Studio,22422.0,9,486.49
+Madinat Al Mataar,1BR,55000.0,2576,847.46
+Madinat Al Mataar,2BR,85000.0,2336,761.06
+Madinat Al Mataar,3BR,110000.0,1637,730.77
+Madinat Al Mataar,4BR,150000.0,575,549.65
+Madinat Al Mataar,5BR,245000.0,45,643.43
+Madinat Al Mataar,Penthouse,92000.0,3,500.0
+Madinat Al Mataar,Studio,40000.0,1322,1000.0
+Madinat Dubai Almelaheyah,1BR,72499.0,880,837.97
+Madinat Dubai Almelaheyah,2BR,79169.0,870,616.33
+Madinat Dubai Almelaheyah,3BR,108675.0,234,604.23
+Madinat Dubai Almelaheyah,Studio,60000.0,13,1463.41
+Madinat Hind 3,1BR,4781000.0,49,82431.03
+Madinat Hind 3,3BR,150000.0,9,268.1
+Madinat Hind 3,4BR,200000.0,15,454.55
+Madinat Hind 3,5BR,244834.0,20,388.35
+Madinat Hind 3,6BR+,290000.0,9,445.77
+Madinat Hind 3,Studio,4669000.0,1140,145906.25
+Madinat Hind 4,1BR,45000.0,205,950.0
+Madinat Hind 4,2BR,81250.0,158,676.69
+Madinat Hind 4,3BR,90000.0,3959,628.57
+Madinat Hind 4,4BR,105000.0,349,714.29
+Madinat Hind 4,5BR,140000.0,134,801.62
+Madinat Hind 4,6BR+,210000.0,117,539.91
+Madinat Hind 4,Studio,37000.0,209,925.0
+Mankhool,1BR,61852.0,3505,820.9
+Mankhool,2BR,82700.0,4075,717.95
+Mankhool,3BR,110250.0,1905,641.69
+Mankhool,4BR,140000.0,327,577.5
+Mankhool,5BR,209000.0,53,433.56
+Mankhool,6BR+,220000.0,18,353.98
+Mankhool,Duplex,136500.0,10,62.15
+Mankhool,Penthouse,370000.0,3,956.07
+Mankhool,Studio,43739.0,959,1117.0
+Margham,1BR,35000.0,2,684.78
+Margham,Studio,30000.0,5,66.0
+Marsa Dubai,1BR,95000.0,7554,1212.12
+Marsa Dubai,2BR,140000.0,6547,1124.03
+Marsa Dubai,3BR,200000.0,2511,1054.05
+Marsa Dubai,4BR,280000.0,361,1006.71
+Marsa Dubai,5BR,390000.0,35,630.63
+Marsa Dubai,Duplex,300000.0,1,895.52
+Marsa Dubai,Penthouse,207500.0,12,815.18
+Marsa Dubai,Room,150000.0,1,1704.55
+Marsa Dubai,Studio,66000.0,1208,1570.43
+Me'Aisem First,1BR,55000.0,2546,806.45
+Me'Aisem First,2BR,80000.0,1083,790.91
+Me'Aisem First,3BR,270000.0,389,1567.16
+Me'Aisem First,4BR,450000.0,122,1294.52
+Me'Aisem First,5BR,800000.0,91,942.03
+Me'Aisem First,6BR+,1175000.0,38,1174.38
+Me'Aisem First,Studio,36500.0,2912,940.91
+Mirdif,1BR,51818.0,2389,611.65
+Mirdif,2BR,69575.0,3254,529.57
+Mirdif,3BR,100185.0,3464,499.17
+Mirdif,4BR,126000.0,1980,450.38
+Mirdif,5BR,135000.0,440,408.07
+Mirdif,6BR+,170000.0,90,455.5
+Mirdif,Duplex,200000.0,1,738.01
+Mirdif,Room,46200.0,1,650.7
+Mirdif,Studio,40541.0,272,814.78
+Muhaisanah First,1BR,80000.0,149,900.9
+Muhaisanah First,2BR,120000.0,149,880.0
+Muhaisanah First,3BR,155000.0,38,759.64
+Muhaisanah First,4BR,210000.0,12,399.36
+Muhaisanah First,5BR,175000.0,22,600.0
+Muhaisanah First,6BR+,222500.0,8,290.89
+Muhaisanah Fourth,1BR,35226.0,4377,529.02
+Muhaisanah Fourth,2BR,43890.0,5804,432.69
+Muhaisanah Fourth,3BR,72450.0,563,472.66
+Muhaisanah Fourth,4BR,91975.0,2,472.0
+Muhaisanah Fourth,5BR,65000.0,1,474.45
+Muhaisanah Fourth,6BR+,60000.0,1,521.74
+Muhaisanah Fourth,Studio,25250.0,850,741.94
+Muhaisanah Second,1BR,30000.0,447,861.77
+Muhaisanah Second,2BR,31217.0,205,624.34
+Muhaisanah Second,3BR,31108.0,41,364.99
+Muhaisanah Second,Studio,1169965.0,169,77997.67
+Muhaisanah Third,2BR,51500.0,4,240.0
+Muhaisanah Third,3BR,120000.0,11,182.97
+Muhaisanah Third,4BR,157625.0,8,421.31
+Muhaisanah Third,5BR,140000.0,12,357.45
+Muhaisanah Third,6BR+,268000.0,7,250.0
+Mushrif,3BR,195000.0,2,361.11
+Mushrif,4BR,234685.0,5,615.94
+Mushrif,5BR,275000.0,6,500.31
+Nad Al Hamar,1BR,48000.0,1548,611.39
+Nad Al Hamar,2BR,68000.0,1278,571.73
+Nad Al Hamar,3BR,85000.0,255,572.52
+Nad Al Hamar,4BR,154350.0,37,611.64
+Nad Al Hamar,5BR,200000.0,35,415.13
+Nad Al Hamar,6BR+,250000.0,27,311.11
+Nad Al Hamar,Studio,36000.0,139,720.0
+Nad Al Shiba First,1BR,80000.0,1004,1012.82
+Nad Al Shiba First,2BR,120000.0,665,948.28
+Nad Al Shiba First,3BR,159500.0,133,829.79
+Nad Al Shiba First,4BR,300000.0,118,1089.11
+Nad Al Shiba First,5BR,580000.0,39,729.05
+Nad Al Shiba First,6BR+,600000.0,43,1168.94
+Nad Al Shiba First,Studio,55000.0,14,1216.41
+Nad Al Shiba Fourth,2BR,180000.0,1,
+Nad Al Shiba Fourth,3BR,220000.0,13,230.14
+Nad Al Shiba Fourth,4BR,330000.0,17,385.47
+Nad Al Shiba Fourth,5BR,380000.0,51,358.94
+Nad Al Shiba Fourth,6BR+,432875.0,26,318.76
+Nad Al Shiba Second,1BR,44500.0,4,505.68
+Nad Al Shiba Second,2BR,48000.0,15,476.19
+Nad Al Shiba Second,4BR,510000.0,3,141.0
+Nad Al Shiba Second,5BR,595567.0,7,764.08
+Nad Al Shiba Second,6BR+,925000.0,8,938.58
+Nad Al Shiba Second,Studio,18000.0,4,1189.73
+Nad Al Shiba Third,3BR,195000.0,1,477.94
+Nad Al Shiba Third,4BR,220000.0,539,508.47
+Nad Al Shiba Third,5BR,220500.0,199,480.46
+Nad Al Shiba Third,6BR+,485000.0,12,448.55
+Nad Shamma,3BR,90000.0,4,1000.0
+Nad Shamma,4BR,114772.0,2,85.15
+Nad Shamma,5BR,190000.0,3,204.52
+Nad Shamma,6BR+,307500.0,4,554.67
+Nadd Hessa,1BR,51000.0,8136,677.42
+Nadd Hessa,2BR,71500.0,3108,634.55
+Nadd Hessa,3BR,122000.0,909,587.5
+Nadd Hessa,4BR,163013.0,715,378.91
+Nadd Hessa,5BR,210450.0,65,389.93
+Nadd Hessa,6BR+,370000.0,6,459.74
+Nadd Hessa,Penthouse,240000.0,1,285.04
+Nadd Hessa,Studio,40000.0,3795,944.44
+Naif,1BR,40462.0,1994,800.0
+Naif,2BR,51000.0,1417,645.65
+Naif,3BR,73000.0,137,552.99
+Naif,4BR,50000.0,11,916.67
+Naif,5BR,45000.0,1,391.3
+Naif,6BR+,102500.0,6,688.16
+Naif,Room,31000.0,6,632.08
+Naif,Studio,28000.0,3654,1150.0
+Oud Metha,1BR,67100.0,1383,804.88
+Oud Metha,2BR,85000.0,1994,693.88
+Oud Metha,3BR,116000.0,663,731.78
+Oud Metha,4BR,161585.0,15,511.63
+Oud Metha,Duplex,180000.0,1,451.13
+Oud Metha,Studio,42000.0,410,1222.22
+Palm Jumeirah,1BR,147000.0,1138,1375.0
+Palm Jumeirah,2BR,210000.0,1551,1277.03
+Palm Jumeirah,3BR,285825.0,748,1271.4
+Palm Jumeirah,4BR,758250.0,222,1364.37
+Palm Jumeirah,5BR,950000.0,119,1714.38
+Palm Jumeirah,6BR+,1705000.0,65,1369.48
+Palm Jumeirah,Penthouse,385875.0,9,1752.82
+Palm Jumeirah,Studio,92500.0,293,2448.98
+Port Saeed,1BR,57200.0,551,973.74
+Port Saeed,2BR,78000.0,828,700.0
+Port Saeed,3BR,110250.0,368,641.03
+Port Saeed,4BR,300000.0,57,93.19
+Port Saeed,5BR,148924.0,2,244.7
+Port Saeed,6BR+,60000.0,1,346.82
+Port Saeed,Room,165000.0,2,1588.89
+Port Saeed,Studio,36000.0,289,1054.05
+Ras Al Khor Industrial First,1BR,55500.0,59,1078.43
+Ras Al Khor Industrial First,2BR,67500.0,4,1057.52
+Ras Al Khor Industrial First,Studio,40000.0,11,795.45
+Ras Al Khor Industrial Second,1BR,55000.0,81,817.23
+Ras Al Khor Industrial Second,2BR,75000.0,44,752.34
+Ras Al Khor Industrial Second,3BR,100000.0,1,571.43
+Ras Al Khor Industrial Second,5BR,50000.0,1,58.07
+Ras Al Khor Industrial Second,Studio,42000.0,69,926.83
+Ras Al Khor Industrial Third,1BR,42000.0,1169,620.25
+Ras Al Khor Industrial Third,2BR,58000.0,2499,516.35
+Ras Al Khor Industrial Third,3BR,86000.0,433,565.79
+Ras Al Khor Industrial Third,Studio,38000.0,60,933.5
+Rega Al Buteen,1BR,80200.0,36,912.79
+Rega Al Buteen,2BR,78750.0,341,552.8
+Rega Al Buteen,3BR,110000.0,328,593.22
+Rega Al Buteen,4BR,145110.0,133,513.7
+Rega Al Buteen,5BR,100000.0,1,292.4
+Rega Al Buteen,Duplex,175000.0,3,335.89
+Saih Shuaib 1,1BR,43927.0,114,586.0
+Saih Shuaib 1,2BR,50000.0,58,459.64
+Saih Shuaib 1,3BR,93500.0,6,587.41
+Saih Shuaib 1,4BR,142500.0,30,301.08
+Saih Shuaib 1,5BR,165000.0,4,317.71
+Saih Shuaib 1,6BR+,70000.0,1,67.96
+Saih Shuaib 1,Studio,37000.0,8,672.73
+Saih Shuaib 2,1BR,50000.0,633,769.72
+Saih Shuaib 2,2BR,70000.0,472,710.74
+Saih Shuaib 2,3BR,85000.0,75,623.27
+Saih Shuaib 2,4BR,129640.0,5,364.16
+Saih Shuaib 2,Studio,37000.0,583,945.95
+Saih Shuaib 4,1BR,2842800.0,355,94760.0
+Saih Shuaib 4,Room,1268400.0,158,39637.5
+Saih Shuaib 4,Studio,3672000.0,1,122400.0
+Trade Center First,1BR,85000.0,1086,1120.48
+Trade Center First,2BR,105000.0,2228,833.33
+Trade Center First,3BR,133403.0,1428,732.48
+Trade Center First,4BR,223262.0,14,809.44
+Trade Center First,5BR,236500.0,6,591.25
+Trade Center First,Penthouse,187450.0,2,558.58
+Trade Center First,Studio,69000.0,24,1657.14
+Trade Center Second,1BR,77188.0,526,1250.0
+Trade Center Second,2BR,101640.0,985,849.26
+Trade Center Second,3BR,121802.0,967,901.64
+Trade Center Second,4BR,240500.0,34,766.26
+Trade Center Second,Duplex,341974.0,4,977.94
+Trade Center Second,Studio,65000.0,109,1274.51
+Um Al Sheif,1BR,94500.0,3,1176.47
+Um Al Sheif,2BR,148375.0,64,1159.15
+Um Al Sheif,3BR,168000.0,20,739.36
+Um Al Sheif,4BR,266805.0,65,968.88
+Um Al Sheif,5BR,324450.0,28,750.0
+Um Al Sheif,6BR+,465000.0,18,364.74
+Um Hurair First,1BR,60000.0,456,823.41
+Um Hurair First,2BR,87750.0,412,784.31
+Um Hurair First,3BR,105394.0,118,720.06
+Um Hurair First,4BR,115500.0,30,677.42
+Um Hurair First,Studio,42000.0,236,810.81
+Um Hurair Second,1BR,63000.0,179,596.33
+Um Hurair Second,2BR,88000.0,300,698.53
+Um Hurair Second,3BR,185000.0,104,757.52
+Um Hurair Second,4BR,234100.0,14,731.56
+Um Hurair Second,Penthouse,250000.0,3,375.94
+Um Hurair Second,Studio,65000.0,17,1382.98
+Um Ramool,1BR,70000.0,80,822.39
+Um Ramool,2BR,100000.0,183,692.31
+Um Ramool,3BR,140000.0,40,525.89
+Um Suqaim First,2BR,96000.0,8,97.96
+Um Suqaim First,3BR,184000.0,264,801.75
+Um Suqaim First,4BR,250000.0,222,793.48
+Um Suqaim First,5BR,300000.0,274,806.66
+Um Suqaim First,6BR+,399000.0,29,659.78
+Um Suqaim Second,1BR,80000.0,31,1028.0
+Um Suqaim Second,2BR,117810.0,49,952.07
+Um Suqaim Second,3BR,190575.0,211,694.31
+Um Suqaim Second,4BR,236526.0,346,600.81
+Um Suqaim Second,5BR,289800.0,181,676.67
+Um Suqaim Second,6BR+,410000.0,18,706.02
+Um Suqaim Second,Studio,50000.0,7,1428.57
+Um Suqaim Third,1BR,125000.0,280,1666.67
+Um Suqaim Third,2BR,200000.0,207,1596.0
+Um Suqaim Third,3BR,250000.0,90,767.34
+Um Suqaim Third,4BR,264500.0,235,705.1
+Um Suqaim Third,5BR,310000.0,90,246.54
+Um Suqaim Third,6BR+,360000.0,23,60.85
+Wadi Al Amardi,3BR,200000.0,1,259.74
+Wadi Al Amardi,4BR,170000.0,1,548.39
+Wadi Al Amardi,5BR,207000.0,37,512.38
+Wadi Al Safa 2,1BR,48000.0,2575,696.67
+Wadi Al Safa 2,2BR,68000.0,1138,638.55
+Wadi Al Safa 2,3BR,97500.0,138,458.4
+Wadi Al Safa 2,4BR,215000.0,67,485.65
+Wadi Al Safa 2,5BR,200000.0,123,1081.08
+Wadi Al Safa 2,Studio,37000.0,633,954.55
+Wadi Al Safa 3,1BR,55000.0,1422,700.26
+Wadi Al Safa 3,2BR,84000.0,1028,714.29
+Wadi Al Safa 3,3BR,160000.0,228,863.86
+Wadi Al Safa 3,4BR,199446.0,253,846.13
+Wadi Al Safa 3,5BR,750000.0,81,990.99
+Wadi Al Safa 3,6BR+,300000.0,37,381.91
+Wadi Al Safa 3,Duplex,70350.0,5,469.0
+Wadi Al Safa 3,Studio,37950.0,597,863.64
+Wadi Al Safa 4,1BR,45000.0,6,600.0
+Wadi Al Safa 4,2BR,70000.0,4,556.12
+Wadi Al Safa 5,1BR,49350.0,3618,636.35
+Wadi Al Safa 5,2BR,64000.0,2103,586.25
+Wadi Al Safa 5,3BR,155000.0,1859,993.79
+Wadi Al Safa 5,4BR,200000.0,949,801.08
+Wadi Al Safa 5,5BR,290000.0,267,476.19
+Wadi Al Safa 5,6BR+,400000.0,29,488.15
+Wadi Al Safa 5,Studio,37000.0,2077,883.72
+Wadi Al Safa 6,2BR,165000.0,218,720.0
+Wadi Al Safa 6,3BR,230000.0,583,617.98
+Wadi Al Safa 6,4BR,370000.0,136,549.31
+Wadi Al Safa 6,5BR,445000.0,209,574.78
+Wadi Al Safa 6,6BR+,552500.0,44,588.03
+Wadi Al Safa 7,1BR,65000.0,587,1083.33
+Wadi Al Safa 7,2BR,100000.0,686,719.09
+Wadi Al Safa 7,3BR,165000.0,1023,734.62
+Wadi Al Safa 7,4BR,250000.0,582,673.16
+Wadi Al Safa 7,5BR,340000.0,92,716.75
+Wadi Al Safa 7,6BR+,587100.0,11,797.69
+Wadi Al Safa 7,Duplex,73000.0,1,1377.36
+Wadi Al Safa 7,Studio,42000.0,205,1090.91
+Warsan Fourth,1BR,46000.0,5446,649.35
+Warsan Fourth,2BR,59705.0,1056,559.57
+Warsan Fourth,3BR,78750.0,49,465.38
+Warsan Fourth,4BR,90000.0,1,725.81
+Warsan Fourth,Studio,35500.0,2682,900.0
+Zaabeel First,1BR,310000.0,29,2800.0
+Zaabeel First,2BR,600000.0,75,3056.77
+Zaabeel First,3BR,761867.0,6,3371.09
+Zaabeel Second,1BR,123380.0,356,1737.62
+Zaabeel Second,2BR,180000.0,489,1633.66
+Zaabeel Second,3BR,280000.0,229,1735.29
+Zaabeel Second,4BR,540000.0,5,2317.6

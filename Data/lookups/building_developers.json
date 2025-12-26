@@ -1,0 +1,407 @@
+{
+  "_description": "Developers who build projects that are registered under master developers in DLD. These developers may not have their own data directly in the training set.",
+  "_version": "2.0",
+  "_last_updated": "2025-12-16",
+  "_note": "Top 50 Dubai developers based on 2025 sales data. Building developers are mapped to master developers by area.",
+  
+  "building_developers_without_own_data": {
+    "Binghatti": {
+      "rank": 6,
+      "aliases": ["Binghatti", "Binghatti Properties", "BINGHATTI", "بن غاطي", "بنغاتي"],
+      "registered_under_by_area": {
+        "Al Barsha South Fourth": "قرية جميرا (ش.ذ.م.م)",
+        "Business Bay": "الخليج التجاري (ش.ذ.م.م)",
+        "Al Jadaf": "مدينه دبى الطبيه منطقه حرة - ذ.م.م.",
+        "Al Barshaa South Second": "دى اتش ايه ام منطقه حره - ذ.م.م",
+        "Nadd Hessa": "سلطة دبي للمناطق الإقتصادية المتكاملة",
+        "Me'Aisem First": "تيكوم للإستثمارات منطقة حرة- ذ.م.م",
+        "Al Barsha South Fifth": "شركة نخيل (ش.م.خ)",
+        "Burj Khalifa": "اعمار العقارية (ش . م. ع)",
+        "Al Hebiah Fourth": "مدينة دبي الرياضية (ش. ذ. م. م)",
+        "Wadi Al Safa 5": "دبي لاند ريزيدنسز (ش.ذ.م.م)",
+        "Wadi Al Safa 3": "ليوان(ش.ذ.م.م.)"
+      },
+      "typical_areas": ["Al Barsha South Fourth", "Business Bay"],
+      "common_area_names": ["JVC", "Business Bay"],
+      "note": "Top 6 developer by 2025 sales. Projects registered under different master developers depending on area."
+    },
+    
+    "Danube": {
+      "rank": 9,
+      "aliases": ["Danube", "Danube Properties", "DANUBE", "دانوب"],
+      "registered_under_by_area": {
+        "Al Barsha South Fourth": "قرية جميرا (ش.ذ.م.م)",
+        "Al Thanyah Fifth": "مركز دبي للسلع المتعددة",
+        "Jabal Ali First": "الفرجان ( ش.ذ.م.م )",
+        "Business Bay": "الخليج التجاري (ش.ذ.م.م)",
+        "Nadd Hessa": "سلطة دبي للمناطق الإقتصادية المتكاملة",
+        "Al Hebiah Fourth": "مدينة دبي الرياضية (ش. ذ. م. م)",
+        "Al Barsha South Fifth": "قرية جميرا (ش.ذ.م.م)",
+        "Al Barshaa South Third": "ليوان(ش.ذ.م.م.)",
+        "Al Barshaa South Second": "تيكوم للإستثمارات منطقة حرة- ذ.م.م",
+        "Al Warsan First": "انترناشونال سيتي ( ش.ذ.م.م )",
+        "Madinat Dubai Almelaheyah": "مدينة دبي الملاحية م م ح"
+      },
+      "typical_areas": ["Al Barsha South Fourth", "Al Thanyah Fifth"],
+      "common_area_names": ["JVC", "JLT", "Al Furjan"],
+      "note": "Top 9 developer by 2025 sales. Known for affordable payment plans."
+    },
+    
+    "Samana": {
+      "rank": 11,
+      "aliases": ["Samana", "Samana Developers", "SAMANA", "سامانا"],
+      "registered_under_by_area": {
+        "Al Hebiah Second": "تيكوم للإستثمارات منطقة حرة- ذ.م.م",
+        "Al Barsha South Fourth": "قرية جميرا (ش.ذ.م.م)",
+        "Al Hebiah Fourth": "مدينة دبي الرياضية (ش. ذ. م. م)"
+      },
+      "typical_areas": ["Al Hebiah Second"],
+      "common_area_names": ["Dubai Studio City", "Arjan", "JVC"],
+      "note": "Top 11 developer. Known for resort-style apartments."
+    },
+    
+    "Imtiaz": {
+      "rank": 12,
+      "aliases": ["Imtiaz", "Imtiaz Developments", "IMTIAZ"],
+      "registered_under_by_area": {
+        "Al Barsha South Fourth": "قرية جميرا (ش.ذ.م.م)",
+        "Business Bay": "الخليج التجاري (ش.ذ.م.م)"
+      },
+      "typical_areas": ["Al Barsha South Fourth"],
+      "common_area_names": ["JVC", "Business Bay"],
+      "note": "Top 12 developer by H1 2025 sales."
+    },
+    
+    "Azizi": {
+      "rank": 13,
+      "aliases": ["Azizi", "Azizi Developments", "AZIZI", "عزيزي"],
+      "registered_under_by_area": {
+        "Jabal Ali First": "الفرجان ( ش.ذ.م.م )",
+        "Palm Jumeirah": "شركة النخلة - جميرا (ش.ذ.م.م)",
+        "Al Merkadh": "مجموعة ميدان (ش.ذ.م.م)",
+        "Madinat Al Mataar": "مؤسسه مدينه دبى للطيران",
+        "Al Barsha South Fourth": "قرية جميرا (ش.ذ.م.م)"
+      },
+      "typical_areas": ["Jabal Ali First", "Al Merkadh"],
+      "common_area_names": ["Al Furjan", "MBR City", "Dubai South"],
+      "note": "Top 13 developer. Known for Riviera project in MBR City."
+    },
+    
+    "Ellington": {
+      "rank": 15,
+      "aliases": ["Ellington", "Ellington Properties", "ELLINGTON", "إلينجتون"],
+      "registered_under_by_area": {
+        "Al Barsha South Fourth": "قرية جميرا (ش.ذ.م.م)",
+        "Al Merkadh": "مجموعة ميدان (ش.ذ.م.م)",
+        "Al Thanyah Fifth": "مركز دبي للسلع المتعددة",
+        "Hadaeq Sheikh Mohammed Bin Rashid": "دبي هيلز استيت ش.ذ.م.م",
+        "Bukadra": "مجموعة ميدان (ش.ذ.م.م)",
+        "Palm Deira": "شركة نخيل (ش.م.خ)",
+        "Palm Jumeirah": "شركة النخلة - جميرا (ش.ذ.م.م)",
+        "Wadi Al Safa 3": "مجموعة ميدان (ش.ذ.م.م)",
+        "Saih Shuaib 2": "دى اتش ايه ام منطقه حره - ذ.م.م"
+      },
+      "typical_areas": ["Al Barsha South Fourth", "Hadaeq Sheikh Mohammed Bin Rashid"],
+      "common_area_names": ["JVC", "Dubai Hills", "MBR City"],
+      "note": "Top 15 developer. Boutique luxury developer."
+    },
+    
+    "Omniyat": {
+      "rank": 8,
+      "aliases": ["Omniyat", "OMNIYAT", "Omniyat Group"],
+      "registered_under_by_area": {
+        "Business Bay": "الخليج التجاري (ش.ذ.م.م)",
+        "Palm Jumeirah": "شركة النخلة - جميرا (ش.ذ.م.م)",
+        "Marsa Dubai": "مرسى دبي المرحلة الاولى (ش.ذ.م.م)"
+      },
+      "typical_areas": ["Business Bay", "Palm Jumeirah"],
+      "common_area_names": ["Business Bay", "Palm Jumeirah", "Dubai Marina"],
+      "note": "Top 8 developer. Ultra-luxury developer."
+    },
+    
+    "Aldar": {
+      "rank": 7,
+      "aliases": ["Aldar", "Aldar Properties", "ALDAR"],
+      "registered_under_by_area": {
+        "Al Barsha South Fourth": "قرية جميرا (ش.ذ.م.م)"
+      },
+      "typical_areas": [],
+      "common_area_names": ["JVC"],
+      "note": "Top 7 developer. Abu Dhabi's largest developer, expanding into Dubai."
+    },
+    
+    "Select Group": {
+      "rank": 20,
+      "aliases": ["Select Group", "SELECT GROUP", "Select"],
+      "registered_under_by_area": {
+        "Business Bay": "الخليج التجاري (ش.ذ.م.م)",
+        "Marsa Dubai": "مرسى دبي المرحلة الاولى (ش.ذ.م.م)"
+      },
+      "typical_areas": ["Business Bay"],
+      "common_area_names": ["Business Bay", "Dubai Marina"],
+      "note": "Top 20 developer. Known for Peninsula projects."
+    },
+    
+    "Tiger Group": {
+      "rank": 21,
+      "aliases": ["Tiger Group", "Tiger Properties", "TIGER"],
+      "registered_under_by_area": {
+        "Al Barsha South Fourth": "قرية جميرا (ش.ذ.م.م)",
+        "Business Bay": "الخليج التجاري (ش.ذ.م.م)"
+      },
+      "typical_areas": ["Al Barsha South Fourth"],
+      "common_area_names": ["JVC", "Business Bay"],
+      "note": "Top 21 developer. Value-focused developer."
+    },
+    
+    "Iman Developers": {
+      "rank": 22,
+      "aliases": ["Iman", "Iman Developers", "IMAN"],
+      "registered_under_by_area": {
+        "Al Barsha South Fourth": "قرية جميرا (ش.ذ.م.م)"
+      },
+      "typical_areas": ["Al Barsha South Fourth"],
+      "common_area_names": ["JVC"],
+      "note": "Top 22 developer."
+    },
+    
+    "H&H Development": {
+      "rank": 23,
+      "aliases": ["H&H", "H&H Development", "H and H", "Eden Hills"],
+      "registered_under_by_area": {
+        "Saih Shuaib 2": "دى اتش ايه ام منطقه حره - ذ.م.م"
+      },
+      "typical_areas": ["Saih Shuaib 2"],
+      "common_area_names": ["DAMAC Hills 2"],
+      "note": "Top 23 developer. Recent luxury entrant with Eden Hills."
+    },
+    
+    "Beyond Developments": {
+      "rank": 24,
+      "aliases": ["Beyond", "Beyond Developments"],
+      "registered_under_by_area": {
+        "Business Bay": "الخليج التجاري (ش.ذ.م.م)"
+      },
+      "typical_areas": ["Business Bay"],
+      "common_area_names": ["Business Bay"],
+      "note": "Top 24 developer. Under Omniyat umbrella."
+    },
+    
+    "LIV Developers": {
+      "rank": 28,
+      "aliases": ["LIV", "LIV Developers", "LIV Real Estate"],
+      "registered_under_by_area": {
+        "Marsa Dubai": "مرسى دبي المرحلة الاولى (ش.ذ.م.م)",
+        "Al Thanyah Fifth": "مركز دبي للسلع المتعددة"
+      },
+      "typical_areas": ["Marsa Dubai"],
+      "common_area_names": ["Dubai Marina", "JLT"],
+      "note": "Top 28 developer. Luxury developer."
+    },
+    
+    "Reportage": {
+      "rank": 31,
+      "aliases": ["Reportage", "Reportage Properties", "REPORTAGE"],
+      "registered_under_by_area": {
+        "Al Barsha South Fourth": "قرية جميرا (ش.ذ.م.م)"
+      },
+      "typical_areas": ["Al Barsha South Fourth"],
+      "common_area_names": ["JVC"],
+      "note": "Top 31 developer. Abu Dhabi-based developer."
+    },
+    
+    "IFA Hotels & Resorts": {
+      "rank": 32,
+      "aliases": ["IFA", "IFA Hotels", "IFA Hotels & Resorts"],
+      "registered_under_by_area": {
+        "Palm Jumeirah": "شركة النخلة - جميرا (ش.ذ.م.م)"
+      },
+      "typical_areas": ["Palm Jumeirah"],
+      "common_area_names": ["Palm Jumeirah"],
+      "note": "Top 32 developer. Hotel/resort developer."
+    },
+    
+    "Alta": {
+      "rank": 34,
+      "aliases": ["Alta", "Alta Real Estate"],
+      "registered_under_by_area": {
+        "Al Barsha South Fourth": "قرية جميرا (ش.ذ.م.م)"
+      },
+      "typical_areas": ["Al Barsha South Fourth"],
+      "common_area_names": ["JVC"],
+      "note": "Top 34 developer."
+    },
+    
+    "Prescott": {
+      "rank": 35,
+      "aliases": ["Prescott", "Prescott Real Estate"],
+      "registered_under_by_area": {
+        "Al Barsha South Fourth": "قرية جميرا (ش.ذ.م.م)"
+      },
+      "typical_areas": ["Al Barsha South Fourth"],
+      "common_area_names": ["JVC"],
+      "note": "Top 35 developer."
+    },
+    
+    "Prime": {
+      "rank": 36,
+      "aliases": ["Prime", "Prime Properties"],
+      "registered_under_by_area": {
+        "Al Barsha South Fourth": "قرية جميرا (ش.ذ.م.م)"
+      },
+      "typical_areas": ["Al Barsha South Fourth"],
+      "common_area_names": ["JVC"],
+      "note": "Top 36 developer."
+    },
+    
+    "Tebyan": {
+      "rank": 37,
+      "aliases": ["Tebyan", "Tebyan Properties"],
+      "registered_under_by_area": {
+        "Al Barsha South Fourth": "قرية جميرا (ش.ذ.م.م)"
+      },
+      "typical_areas": ["Al Barsha South Fourth"],
+      "common_area_names": ["JVC"],
+      "note": "Top 37 developer."
+    },
+    
+    "Gemini Developers": {
+      "rank": 38,
+      "aliases": ["Gemini", "Gemini Developers", "Gemeni"],
+      "registered_under_by_area": {
+        "Al Barsha South Fourth": "قرية جميرا (ش.ذ.م.م)"
+      },
+      "typical_areas": ["Al Barsha South Fourth"],
+      "common_area_names": ["JVC"],
+      "note": "Top 38 developer."
+    },
+    
+    "Eagle Hills": {
+      "rank": 39,
+      "aliases": ["Eagle Hills", "Eagle Hills Development"],
+      "registered_under_by_area": {
+        "Al Barsha South Fourth": "قرية جميرا (ش.ذ.م.م)"
+      },
+      "typical_areas": [],
+      "common_area_names": [],
+      "note": "Top 39 developer. Abu Dhabi-based."
+    },
+    
+    "RAK Properties": {
+      "rank": 40,
+      "aliases": ["RAK Properties", "RAK"],
+      "registered_under_by_area": {},
+      "typical_areas": [],
+      "common_area_names": [],
+      "note": "Top 40 developer. RAK-based, limited Dubai presence."
+    },
+    
+    "Ajmal Makan": {
+      "rank": 41,
+      "aliases": ["Ajmal Makan", "Ajmal"],
+      "registered_under_by_area": {
+        "Al Barsha South Fourth": "قرية جميرا (ش.ذ.م.م)"
+      },
+      "typical_areas": ["Al Barsha South Fourth"],
+      "common_area_names": ["JVC"],
+      "note": "Top 41 developer."
+    },
+    
+    "Alef Group": {
+      "rank": 42,
+      "aliases": ["Alef", "Alef Group"],
+      "registered_under_by_area": {},
+      "typical_areas": [],
+      "common_area_names": [],
+      "note": "Top 42 developer. Sharjah-based."
+    },
+    
+    "City Developments": {
+      "rank": 43,
+      "aliases": ["City Developments", "CDL"],
+      "registered_under_by_area": {},
+      "typical_areas": [],
+      "common_area_names": [],
+      "note": "Top 43 developer."
+    },
+    
+    "Pantheon Development": {
+      "rank": 44,
+      "aliases": ["Pantheon", "Pantheon Development"],
+      "registered_under_by_area": {
+        "Al Barsha South Fourth": "قرية جميرا (ش.ذ.م.م)"
+      },
+      "typical_areas": ["Al Barsha South Fourth"],
+      "common_area_names": ["JVC"],
+      "note": "Top 44 developer."
+    },
+    
+    "ORO24": {
+      "rank": 45,
+      "aliases": ["ORO24", "ORO 24", "Oro24"],
+      "registered_under_by_area": {
+        "Al Barsha South Fourth": "قرية جميرا (ش.ذ.م.م)"
+      },
+      "typical_areas": ["Al Barsha South Fourth"],
+      "common_area_names": ["JVC"],
+      "note": "Top 45 developer."
+    },
+    
+    "LEOS Developments": {
+      "rank": 46,
+      "aliases": ["LEOS", "LEOS Developments"],
+      "registered_under_by_area": {
+        "Al Barsha South Fourth": "قرية جميرا (ش.ذ.م.م)"
+      },
+      "typical_areas": ["Al Barsha South Fourth"],
+      "common_area_names": ["JVC"],
+      "note": "Top 46 developer."
+    },
+    
+    "LMD": {
+      "rank": 47,
+      "aliases": ["LMD", "LMD Development"],
+      "registered_under_by_area": {
+        "Al Barsha South Fourth": "قرية جميرا (ش.ذ.م.م)"
+      },
+      "typical_areas": ["Al Barsha South Fourth"],
+      "common_area_names": ["JVC"],
+      "note": "Top 47 developer."
+    }
+  },
+  
+  "developers_with_own_data": [
+    "Emaar",
+    "DAMAC",
+    "Sobha",
+    "Nakheel",
+    "Meraas",
+    "Dubai Properties",
+    "Dubai Holding",
+    "Meydan",
+    "Nshama",
+    "MAG",
+    "Majid Al Futtaim",
+    "Union Properties",
+    "Al Habtoor Group",
+    "Dubai South Properties",
+    "TECOM",
+    "DMCC",
+    "Aldar",
+    "Dubai Investments",
+    "Seven Tides",
+    "Wasl",
+    "Deyaar",
+    "Arada",
+    "Al Barari",
+    "Palma Holding",
+    "Tanmiyat",
+    "Dar Global",
+    "Expo City Dubai",
+    "ICD Brookfield",
+    "DIAC",
+    "DWTC"
+  ],
+  
+  "user_facing_message": "Developer-specific prediction data is not available for {developer}. The prediction below is based on {area} area market data, which includes all developers in that location."
+}

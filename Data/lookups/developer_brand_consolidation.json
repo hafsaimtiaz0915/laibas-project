@@ -1,0 +1,412 @@
+{
+  "_description": "Consolidation of DLD-registered entities into user-facing brands for modeling/segmentation. Maps multiple SPVs to their parent brand.",
+  "_version": "2.0",
+  "_last_updated": "2025-12-16",
+  
+  "brands": {
+    "Emaar": {
+      "registered_entities": [
+        "اعمار العقارية (ش . م. ع)",
+        "إعمار للتطوير (مساهمة عامة)",
+        "إعمار دبي الجنوب دي دبليو سي ش.ذ.م.م",
+        "دي دابليو تي سي إعمار ذ.م.م",
+        "اعمار بوادي (ذ م م)",
+        "دبي هيلز استيت ش.ذ.م.م",
+        "دبي كريك هاربور ش.ذ.م.م",
+        "ذي لاجونز المرحلة الاولى ش.ذ.م.م",
+        "مرسى دبي المرحلة الاولى (ش.ذ.م.م)",
+        "بارك 1 ش.ذ.م.م",
+        "اولد تاون فيوز ش.ذ.م.م",
+        "عقارات جميرا جولف ش.ذ.م.م",
+        "روف للضيافة ش.ذ.م.م",
+        "مشاريع وسط دبي ش.ذ.م.م",
+        "بي جي هوتيل ريزيدينشال ش.ذ.م.م",
+        "مدينة دبي للغولف  (ش.ذ.م.م)",
+        "جيه جي اي للعقارات ش.ذ.م.م",
+        "كريك هايتس للعقارات ش.ذ.م.م"
+      ],
+      "aliases": ["Emaar Properties", "EMAAR", "Emaar Development"],
+      "note": "Dubai's largest developer. Multiple SPVs for different projects."
+    },
+    
+    "DAMAC": {
+      "registered_entities": [
+        "داماك كريسنت للعقارات (ش.ذ.م.م)",
+        "شركة داماك ايليت للاستثمار ذ.م.م",
+        "داماك ميري للاستثمار ش.ذ.م.م",
+        "شركة داماك العقارية (ش.ذ.م.م)",
+        "داماك ورلد ريل استيت ش.ذ.م.م",
+        "داماك سي اس ال للاستثمار ش.ذ.م.م"
+      ],
+      "aliases": ["Damac Properties", "DAMAC Properties", "Damac"],
+      "note": "Major luxury developer. Multiple investment vehicles."
+    },
+    
+    "Nakheel": {
+      "registered_entities": [
+        "شركة نخيل (ش.م.خ)",
+        "شركة النخلة - جميرا (ش.ذ.م.م)",
+        "النخلة  - ديره (ش.ذ.م.م)",
+        "قرية جميرا (ش.ذ.م.م)",
+        "الفرجان ( ش.ذ.م.م )",
+        "انترناشونال سيتي ( ش.ذ.م.م )",
+        "جميرا بارك (ش.ذ.م.م)",
+        "العالم ( ش. ذ. م. م )"
+      ],
+      "aliases": ["Nakheel PJSC", "Nakheel Properties"],
+      "note": "Under Dubai Holding Real Estate umbrella. Master developer for Palm Jumeirah, JVC, International City, etc."
+    },
+    
+    "Meraas": {
+      "registered_entities": [
+        "مراس العقارية (ش.ذ.م.م)",
+        "مراس باي أند ريزيدنس ش.ذ.م.م",
+        "الخليج التجاري (ش.ذ.م.م)",
+        "سيتي ووك ريزيدينشال 1 ش.ذ.م.م",
+        "ميناء راشد العقارية ش.ذ.م.م",
+        "دبي هاربور كوميونيتي ذ.م.م",
+        "مدينة دبي الملاحية م م ح",
+        "جميرا هيلز ديفيلوبمنت ش.ذ.م.م",
+        "جميرا باي ش.ذ.م.م",
+        "جميرا باي ريزيدينشال ذ.م.م",
+        "شركة جزر جميرا (ش.ذ.م.م)",
+        "مرسى العرب ريزدنسز ش.ذ.م.م",
+        "مرسى العرب ش.ذ.م.م"
+      ],
+      "aliases": ["Meraas Holding", "Meraas Development"],
+      "note": "Under Dubai Holding Real Estate umbrella. Master developer for Business Bay, City Walk, Bluewaters, etc."
+    },
+    
+    "Dubai Properties": {
+      "registered_entities": [
+        "دبي للعقارات (ش.ذ.م.م)",
+        "رمرام ش.ذ.م.م",
+        "قريه الثقافه ( ش.ذ.م.م)",
+        "الخيل هايتس ش.ذ.م.م"
+      ],
+      "aliases": ["DP", "Dubai Properties Group"],
+      "note": "Under Dubai Holding Real Estate umbrella."
+    },
+    
+    "Dubai Holding": {
+      "registered_entities": [
+        "دبي لاند ريزيدنسز (ش.ذ.م.م)",
+        "مدينة دبي الرياضية (ش. ذ. م. م)",
+        "دى اتش ايه ام منطقه حره - ذ.م.م",
+        "دبي لاند (ش.ذ.م.م)",
+        "زعبيل سكوير ش.ذ.م.م",
+        "دي اتش ار اي 2 بي تي اس ش.ذ.م.م"
+      ],
+      "aliases": ["Dubai Holding Real Estate", "DHRE", "DHAM"],
+      "note": "Parent umbrella for Nakheel, Meraas, Dubai Properties. Some projects directly under DH brand."
+    },
+    
+    "Meydan": {
+      "registered_entities": [
+        "مجموعة ميدان (ش.ذ.م.م)",
+        "مؤسسة مدينة ميدان"
+      ],
+      "aliases": ["Meydan Group", "Meydan City"],
+      "note": "Now under Dubai Holding/Nakheel umbrella post-2024 integration."
+    },
+    
+    "Sobha": {
+      "registered_entities": [
+        "شوبا ش.ذ.م.م"
+      ],
+      "aliases": ["Sobha Realty", "Sobha Group", "SOBHA"],
+      "note": "Premium developer known for Sobha Hartland."
+    },
+    
+    "Nshama": {
+      "registered_entities": [
+        "نشاما للعقارات لمالكها نشمي ديفلوبمنت شركة الشخص الواحد ش.ذ.م.م",
+        "نشمي ديفلوبمنت ش.ذ.م.م",
+        "نشاما للتطوير ش.ذ.م.م"
+      ],
+      "aliases": ["Nshama Development", "Town Square Developer"],
+      "note": "Developer of Town Square Dubai."
+    },
+    
+    "Majid Al Futtaim": {
+      "registered_entities": [
+        "ماجد الفطيم لتشغيل مشاريع المدن المتكاملة الاماراتية ش.ذ.م.م"
+      ],
+      "aliases": ["MAF", "Majid Al Futtaim Properties"],
+      "note": "Developer of Tilal Al Ghaf."
+    },
+    
+    "Union Properties": {
+      "registered_entities": [
+        "الاتحاد العقارية (شركة مساهمة عامة)"
+      ],
+      "aliases": ["UP", "Union Properties PJSC"],
+      "note": "Developer of Motor City, Green Community."
+    },
+    
+    "Al Habtoor Group": {
+      "registered_entities": [
+        "الحبتور سيتي للتطوير العقاري (فرع من دبي الوطنية للإستثمار(ش.ذ.م.م))"
+      ],
+      "aliases": ["Habtoor", "Al Habtoor City"],
+      "note": "Developer of Al Habtoor City."
+    },
+    
+    "Dubai South Properties": {
+      "registered_entities": [
+        "مؤسسه مدينه دبى للطيران",
+        "دبي الجنوب للعقارات دي دبليو سي ش.ذ.م.م"
+      ],
+      "aliases": ["Dubai Aviation City", "Dubai World Central", "DWC"],
+      "note": "Master developer for Dubai South / Expo area."
+    },
+    
+    "TECOM": {
+      "registered_entities": [
+        "تيكوم للإستثمارات منطقة حرة- ذ.م.م",
+        "مدينه دبى الطبيه منطقه حرة - ذ.م.م.",
+        "الحي الاول - منطقة حرة"
+      ],
+      "aliases": ["TECOM Investments", "TECOM Group", "Dubai Healthcare City", "DHCC"],
+      "note": "Master developer for TECOM zones: Dubai Studio City, Dubai Healthcare City, etc."
+    },
+    
+    "DMCC": {
+      "registered_entities": [
+        "مركز دبي للسلع المتعددة",
+        "مجمع اعمال مركز دبى للسلع المتعدده م.د.م.س"
+      ],
+      "aliases": ["Dubai Multi Commodities Centre", "JLT Master Developer"],
+      "note": "Master developer for JLT."
+    },
+    
+    "Aldar": {
+      "registered_entities": [
+        "الاريام المرحلة الاولى ش.ذ.م.م",
+        "الاريام المرحلة الثانية ش.ذ.م.م"
+      ],
+      "aliases": ["Aldar Properties", "ALDAR"],
+      "note": "Abu Dhabi's largest developer, expanding into Dubai."
+    },
+    
+    "Dubai Investments": {
+      "registered_entities": [
+        "شركة تطوير مجمع دبي للاستثمار (ذ. م. م)",
+        "دبي للاستثمار العقاري (ش ذ م م)"
+      ],
+      "aliases": ["DIP", "Dubai Investment Park"],
+      "note": "Developer of Dubai Investment Park."
+    },
+    
+    "Seven Tides": {
+      "registered_entities": [
+        "شركة الخط الامامي لادارة الاستثمار ش.ذ.م.م",
+        "سيفين مايفير للتطوير العقاري ش.ذ.م.م"
+      ],
+      "aliases": ["Seven Tides International", "Frontline Investment"],
+      "note": "Developer of Anantara Residences, Dukes Hotel."
+    },
+    
+    "Select Group": {
+      "registered_entities": [
+        "هاربور العقارية ذ.م.م",
+        "دبي بينينسولا ش.ذ.م.م"
+      ],
+      "aliases": ["Select Group LLC"],
+      "note": "Developer of Peninsula, Harbour Gate."
+    },
+    
+    "MAG": {
+      "registered_entities": [
+        "ليوان(ش.ذ.م.م.)"
+      ],
+      "aliases": ["MAG Property Development", "MAG Group", "Liwan"],
+      "note": "Developer of MAG 5 Boulevard, Liwan."
+    },
+    
+    "Wasl": {
+      "registered_entities": [
+        "واحة الجزيرة العقارية (ش.ذ.م.م)"
+      ],
+      "aliases": ["Wasl Properties", "Wasl Asset Management"],
+      "note": "Government-owned developer."
+    },
+    
+    "Deyaar": {
+      "registered_entities": [
+        "شمال العقارية ش.ذ.م.م"
+      ],
+      "aliases": ["Deyaar Development", "Shamal Real Estate"],
+      "note": "Public listed developer."
+    },
+    
+    "Arada": {
+      "registered_entities": [
+        "اراد للتطوير ذ م م للشخص الواحد"
+      ],
+      "aliases": ["Arada Development"],
+      "note": "Sharjah-based developer expanding into Dubai."
+    },
+    
+    "Ellington": {
+      "registered_entities": [
+        "إلينجتون كارما للتطوير ذ.م.م"
+      ],
+      "aliases": ["Ellington Properties", "Ellington Karma"],
+      "note": "Boutique luxury developer."
+    },
+    
+    "Al Barari": {
+      "registered_entities": [
+        "الاصيل للاستثمارات ش.ذ.م.م"
+      ],
+      "aliases": ["Aseel Investments"],
+      "note": "Luxury villa developer."
+    },
+    
+    "Tiger Group": {
+      "registered_entities": [
+        "أتش أر أي للتطوير العقاري ش.ذ.م.م"
+      ],
+      "aliases": ["HRI Development", "Tiger Properties"],
+      "note": "Value-focused developer."
+    },
+    
+    "H&H Development": {
+      "registered_entities": [
+        "ايدن هيلز ش.ذ.م.م"
+      ],
+      "aliases": ["H&H", "Eden Hills"],
+      "note": "Luxury developer, Eden Hills project."
+    },
+    
+    "Palma Holding": {
+      "registered_entities": [
+        "بي دي أل أم ريزيدينشال ذ.م.م"
+      ],
+      "aliases": ["PDLM Residential", "Palma"],
+      "note": "Boutique developer."
+    },
+    
+    "Azizi": {
+      "registered_entities": [
+        "عزيزي ديفليوبمنتس ش.ذ.م.م"
+      ],
+      "aliases": ["Azizi Developments", "AZIZI"],
+      "note": "High-volume developer, Riviera project."
+    },
+    
+    "Prescott": {
+      "registered_entities": [
+        "كرستال ثري ش.ذ.م.م-منطقة حرة"
+      ],
+      "aliases": ["Crystal 3", "Prescott Real Estate"],
+      "note": "Boutique developer."
+    },
+    
+    "Tanmiyat": {
+      "registered_entities": [
+        "تنميات جلوبل للتطوير العقاري  ش ذ م م"
+      ],
+      "aliases": ["Tanmiyat Global"],
+      "note": "Mid-market developer."
+    },
+    
+    "Gemini": {
+      "registered_entities": [
+        "جيرسي للتطوير العقاري ش.ذ.م.م"
+      ],
+      "aliases": ["Jersey Development", "Gemini Developers"],
+      "note": "Boutique developer."
+    },
+    
+    "Dar Global": {
+      "registered_entities": [
+        "دار جلوبال لكشري للتطوير العقاري ذ.م.م ش.ش.و"
+      ],
+      "aliases": ["Dar Global Luxury", "Trump Tower Dubai"],
+      "note": "Saudi-backed luxury developer."
+    },
+    
+    "Expo City Dubai": {
+      "registered_entities": [
+        "إكسبو سيتي للتطوير العقاري ش م ح"
+      ],
+      "aliases": ["Expo City", "District 2020"],
+      "note": "Legacy development from Expo 2020."
+    },
+    
+    "ICD Brookfield": {
+      "registered_entities": [
+        "ون زعبيل ذ.م.م"
+      ],
+      "aliases": ["One Zabeel", "ICD"],
+      "note": "Joint venture developer."
+    },
+    
+    "DIAC": {
+      "registered_entities": [
+        "سلطة دبي للمناطق الإقتصادية المتكاملة"
+      ],
+      "aliases": ["Dubai Silicon Oasis", "DSO"],
+      "note": "Master developer for Dubai Silicon Oasis."
+    },
+    
+    "DWTC": {
+      "registered_entities": [
+        "مركز دبي التجاري العالمي ش.ذ.م.م"
+      ],
+      "aliases": ["Dubai World Trade Centre"],
+      "note": "Developer of One Central."
+    },
+    
+    "Limitless": {
+      "registered_entities": [
+        " ليمتلس ش .ذ.م.م"
+      ],
+      "aliases": ["Limitless LLC"],
+      "note": "Dubai World subsidiary (inactive)."
+    },
+    
+    "Kaldari Group": {
+      "registered_entities": [
+        "الياس و مصطفى كلداري لإدارة الاستثمار و التطوير (ش.ذ.م.م)",
+        "شركة الياس ومصطفى كلداري للعقارات (ذ.م.م)"
+      ],
+      "aliases": ["Elias & Mustafa Kaldari"],
+      "note": "Private developer."
+    },
+    
+    "Al Fattan": {
+      "registered_entities": [
+        "الفتان العقارية (ش.ذ.م.م)"
+      ],
+      "aliases": ["Al Fattan Properties"],
+      "note": "Developer of Al Fattan towers."
+    },
+    
+    "ETA Star": {
+      "registered_entities": [
+        "اي تي ايه ستار للتطوير العقاري ش.ذ.م.م"
+      ],
+      "aliases": ["ETA Star Development"],
+      "note": "Part of ETA Ascon Group."
+    },
+    
+    "Reportage": {
+      "registered_entities": [
+        "جيه ايه جي للتطوير ش.ذ.م.م"
+      ],
+      "aliases": ["JAG Development", "Reportage Properties"],
+      "note": "Abu Dhabi-based developer."
+    }
+  },
+  
+  "umbrella_structures": {
+    "Dubai Holding Real Estate": {
+      "description": "Master platform bringing together Nakheel, Meraas, and Dubai Properties under one umbrella (announced 2024)",
+      "subsidiary_brands": ["Nakheel", "Meraas", "Dubai Properties", "Dubai Holding"],
+      "note": "Post-March 2024, Meydan portfolio also falls under Nakheel management."
+    }
+  }
+}

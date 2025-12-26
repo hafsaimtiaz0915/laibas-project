@@ -1,0 +1,570 @@
+{
+  "_instructions": "Maps English developer names to Arabic DLD registered entities for TFT model lookup",
+  "_version": "2.0",
+  "_last_updated": "2025-12-16",
+  "_total_developers": 114,
+  "_mapped": 114,
+  "_unmapped": 0,
+  "mappings": [
+    {
+      "arabic": "قرية جميرا (ش.ذ.م.م)",
+      "english": "Nakheel",
+      "aliases": ["JVC Master Developer", "Jumeirah Village Circle", "JVC Developer"]
+    },
+    {
+      "arabic": "شركة نخيل (ش.م.خ)",
+      "english": "Nakheel",
+      "aliases": ["Nakheel PJSC", "Nakheel Properties"]
+    },
+    {
+      "arabic": "الخليج التجاري (ش.ذ.م.م)",
+      "english": "Meraas",
+      "aliases": ["Business Bay", "Business Bay Master Developer"]
+    },
+    {
+      "arabic": "اعمار العقارية (ش . م. ع)",
+      "english": "Emaar",
+      "aliases": ["Emaar Properties", "EMAAR"]
+    },
+    {
+      "arabic": "ليوان(ش.ذ.م.م.)",
+      "english": "MAG",
+      "aliases": ["MAG Property Development", "MAG Group", "Liwan"]
+    },
+    {
+      "arabic": "مؤسسه مدينه دبى للطيران",
+      "english": "Dubai South Properties",
+      "aliases": ["Dubai Aviation City", "Dubai World Central", "DWC"]
+    },
+    {
+      "arabic": "شوبا ش.ذ.م.م",
+      "english": "Sobha",
+      "aliases": ["Sobha Realty", "Sobha Group", "SOBHA"]
+    },
+    {
+      "arabic": "مركز دبي للسلع المتعددة",
+      "english": "DMCC",
+      "aliases": ["Dubai Multi Commodities Centre", "JLT"]
+    },
+    {
+      "arabic": "مجموعة ميدان (ش.ذ.م.م)",
+      "english": "Meydan",
+      "aliases": ["Meydan Group", "Meydan City"]
+    },
+    {
+      "arabic": "دبي لاند ريزيدنسز (ش.ذ.م.م)",
+      "english": "Dubai Holding",
+      "aliases": ["Dubailand Residences"]
+    },
+    {
+      "arabic": "مدينة دبي الرياضية (ش. ذ. م. م)",
+      "english": "Dubai Holding",
+      "aliases": ["Dubai Sports City", "DSC"]
+    },
+    {
+      "arabic": "تيكوم للإستثمارات منطقة حرة- ذ.م.م",
+      "english": "TECOM",
+      "aliases": ["TECOM Investments", "TECOM Group"]
+    },
+    {
+      "arabic": "دى اتش ايه ام منطقه حره - ذ.م.م",
+      "english": "Dubai Holding",
+      "aliases": ["DHAM", "Dubai Holding Asset Management"]
+    },
+    {
+      "arabic": "دبي هيلز استيت ش.ذ.م.م",
+      "english": "Emaar",
+      "aliases": ["Dubai Hills Estate", "DHE"]
+    },
+    {
+      "arabic": "دبي للعقارات (ش.ذ.م.م)",
+      "english": "Dubai Properties",
+      "aliases": ["DP", "Dubai Properties Group"]
+    },
+    {
+      "arabic": "رمرام ش.ذ.م.م",
+      "english": "Dubai Properties",
+      "aliases": ["Remraam"]
+    },
+    {
+      "arabic": "مراس العقارية (ش.ذ.م.م)",
+      "english": "Meraas",
+      "aliases": ["Meraas Holding", "Meraas Development"]
+    },
+    {
+      "arabic": "سلطة دبي للمناطق الإقتصادية المتكاملة",
+      "english": "DIAC",
+      "aliases": ["Dubai Silicon Oasis", "DSO"]
+    },
+    {
+      "arabic": "الفرجان ( ش.ذ.م.م )",
+      "english": "Nakheel",
+      "aliases": ["Al Furjan"]
+    },
+    {
+      "arabic": "إعمار للتطوير (مساهمة عامة)",
+      "english": "Emaar",
+      "aliases": ["Emaar Development"]
+    },
+    {
+      "arabic": "ذي لاجونز المرحلة الاولى ش.ذ.م.م",
+      "english": "Emaar",
+      "aliases": ["The Lagoons"]
+    },
+    {
+      "arabic": "مدينة دبي الملاحية م م ح",
+      "english": "Meraas",
+      "aliases": ["Dubai Maritime City", "DMC"]
+    },
+    {
+      "arabic": "الاتحاد العقارية (شركة مساهمة عامة)",
+      "english": "Union Properties",
+      "aliases": ["UP", "Union Properties PJSC"]
+    },
+    {
+      "arabic": "الياس و مصطفى كلداري لإدارة الاستثمار و التطوير (ش.ذ.م.م)",
+      "english": "Kaldari Group",
+      "aliases": ["Elias & Mustafa Kaldari"]
+    },
+    {
+      "arabic": "دبي كريك هاربور ش.ذ.م.م",
+      "english": "Emaar",
+      "aliases": ["Dubai Creek Harbour", "DCH"]
+    },
+    {
+      "arabic": "دبي لاند (ش.ذ.م.م)",
+      "english": "Dubai Holding",
+      "aliases": ["Dubailand"]
+    },
+    {
+      "arabic": "نشاما للعقارات لمالكها نشمي ديفلوبمنت شركة الشخص الواحد ش.ذ.م.م",
+      "english": "Nshama",
+      "aliases": ["Nshama Development", "Town Square"]
+    },
+    {
+      "arabic": "داماك كريسنت للعقارات (ش.ذ.م.م)",
+      "english": "DAMAC",
+      "aliases": ["Damac Properties", "DAMAC Properties"]
+    },
+    {
+      "arabic": "داماك ميري للاستثمار ش.ذ.م.م",
+      "english": "DAMAC",
+      "aliases": ["Damac Miri"]
+    },
+    {
+      "arabic": "مدينه دبى الطبيه منطقه حرة - ذ.م.م.",
+      "english": "TECOM",
+      "aliases": ["Dubai Healthcare City", "DHCC"]
+    },
+    {
+      "arabic": "شركة تطوير مجمع دبي للاستثمار (ذ. م. م)",
+      "english": "Dubai Investments",
+      "aliases": ["DIP", "Dubai Investment Park"]
+    },
+    {
+      "arabic": "انترناشونال سيتي ( ش.ذ.م.م )",
+      "english": "Nakheel",
+      "aliases": ["International City", "IC"]
+    },
+    {
+      "arabic": "ميناء راشد العقارية ش.ذ.م.م",
+      "english": "Meraas",
+      "aliases": ["Mina Rashid", "Port Rashid"]
+    },
+    {
+      "arabic": "جيه ايه جي للتطوير ش.ذ.م.م",
+      "english": "Reportage",
+      "aliases": ["JAG Development", "Reportage Properties"]
+    },
+    {
+      "arabic": "شركة الخط الامامي لادارة الاستثمار ش.ذ.م.م",
+      "english": "Seven Tides",
+      "aliases": ["Frontline Investment", "Seven Tides International"]
+    },
+    {
+      "arabic": "واحة الجزيرة العقارية (ش.ذ.م.م)",
+      "english": "Wasl",
+      "aliases": ["Wasl Properties", "Wasl Asset Management"]
+    },
+    {
+      "arabic": "بارك 1 ش.ذ.م.م",
+      "english": "Emaar",
+      "aliases": ["The Park"]
+    },
+    {
+      "arabic": "ماجد الفطيم لتشغيل مشاريع المدن المتكاملة الاماراتية ش.ذ.م.م",
+      "english": "Majid Al Futtaim",
+      "aliases": ["MAF", "Majid Al Futtaim Properties"]
+    },
+    {
+      "arabic": "شركة النخلة - جميرا (ش.ذ.م.م)",
+      "english": "Nakheel",
+      "aliases": ["Palm Jumeirah"]
+    },
+    {
+      "arabic": "جميرا هيلز ديفيلوبمنت ش.ذ.م.م",
+      "english": "Meraas",
+      "aliases": ["Jumeirah Hills"]
+    },
+    {
+      "arabic": "مركز دبي التجاري العالمي ش.ذ.م.م",
+      "english": "DWTC",
+      "aliases": ["Dubai World Trade Centre"]
+    },
+    {
+      "arabic": "نشمي ديفلوبمنت ش.ذ.م.م",
+      "english": "Nshama",
+      "aliases": ["Nashmi Development"]
+    },
+    {
+      "arabic": "إعمار دبي الجنوب دي دبليو سي ش.ذ.م.م",
+      "english": "Emaar",
+      "aliases": ["Emaar South"]
+    },
+    {
+      "arabic": "مرسى دبي المرحلة الاولى (ش.ذ.م.م)",
+      "english": "Emaar",
+      "aliases": ["Dubai Marina"]
+    },
+    {
+      "arabic": "إكسبو سيتي للتطوير العقاري ش م ح",
+      "english": "Expo City Dubai",
+      "aliases": ["Expo City", "District 2020"]
+    },
+    {
+      "arabic": "الخيل هايتس ش.ذ.م.م",
+      "english": "Dubai Properties",
+      "aliases": ["Al Khail Heights"]
+    },
+    {
+      "arabic": "زعبيل سكوير ش.ذ.م.م",
+      "english": "Dubai Holding",
+      "aliases": ["Zabeel Square"]
+    },
+    {
+      "arabic": "شركة الياس ومصطفى كلداري للعقارات (ذ.م.م)",
+      "english": "Kaldari Group",
+      "aliases": ["Kaldari Real Estate"]
+    },
+    {
+      "arabic": "شمال العقارية ش.ذ.م.م",
+      "english": "Deyaar",
+      "aliases": ["Deyaar Development", "Shamal Real Estate"]
+    },
+    {
+      "arabic": "الحي الاول - منطقة حرة",
+      "english": "TECOM",
+      "aliases": ["District One"]
+    },
+    {
+      "arabic": "النخلة  - ديره (ش.ذ.م.م)",
+      "english": "Nakheel",
+      "aliases": ["Palm Deira"]
+    },
+    {
+      "arabic": "الحبتور سيتي للتطوير العقاري (فرع من دبي الوطنية للإستثمار(ش.ذ.م.م))",
+      "english": "Al Habtoor Group",
+      "aliases": ["Al Habtoor City", "Habtoor"]
+    },
+    {
+      "arabic": "أتش أر أي للتطوير العقاري ش.ذ.م.م",
+      "english": "Tiger Group",
+      "aliases": ["HRI Development", "Tiger Properties"]
+    },
+    {
+      "arabic": "العالم ( ش. ذ. م. م )",
+      "english": "Nakheel",
+      "aliases": ["The World Islands", "The World"]
+    },
+    {
+      "arabic": "دبي هاربور كوميونيتي ذ.م.م",
+      "english": "Meraas",
+      "aliases": ["Dubai Harbour"]
+    },
+    {
+      "arabic": "دبي للاستثمار العقاري (ش ذ م م)",
+      "english": "Dubai Investments",
+      "aliases": ["Dubai Investment Properties"]
+    },
+    {
+      "arabic": " ليمتلس ش .ذ.م.م",
+      "english": "Limitless",
+      "aliases": ["Limitless LLC"]
+    },
+    {
+      "arabic": "دي دابليو تي سي إعمار ذ.م.م",
+      "english": "Emaar",
+      "aliases": ["DWTC Emaar"]
+    },
+    {
+      "arabic": "هاربور العقارية ذ.م.م",
+      "english": "Select Group",
+      "aliases": ["Harbour Real Estate"]
+    },
+    {
+      "arabic": "مؤسسة مدينة ميدان",
+      "english": "Meydan",
+      "aliases": ["Meydan City Corporation"]
+    },
+    {
+      "arabic": "الاصيل للاستثمارات ش.ذ.م.م",
+      "english": "Al Barari",
+      "aliases": ["Aseel Investments"]
+    },
+    {
+      "arabic": "دي اتش ار اي 2 بي تي اس ش.ذ.م.م",
+      "english": "Dubai Holding",
+      "aliases": ["DHRE"]
+    },
+    {
+      "arabic": "سيتي ووك ريزيدينشال 1 ش.ذ.م.م",
+      "english": "Meraas",
+      "aliases": ["City Walk"]
+    },
+    {
+      "arabic": "إلينجتون كارما للتطوير ذ.م.م",
+      "english": "Ellington",
+      "aliases": ["Ellington Properties", "Ellington Karma"]
+    },
+    {
+      "arabic": "قريه الثقافه ( ش.ذ.م.م)",
+      "english": "Dubai Properties",
+      "aliases": ["Culture Village"]
+    },
+    {
+      "arabic": "اولد تاون فيوز ش.ذ.م.م",
+      "english": "Emaar",
+      "aliases": ["Old Town Views", "Downtown Dubai"]
+    },
+    {
+      "arabic": "عقارات جميرا جولف ش.ذ.م.م",
+      "english": "Emaar",
+      "aliases": ["Jumeirah Golf Estates", "JGE"]
+    },
+    {
+      "arabic": "نشاما للتطوير ش.ذ.م.م",
+      "english": "Nshama",
+      "aliases": []
+    },
+    {
+      "arabic": "اعمار بوادي (ذ م م)",
+      "english": "Emaar",
+      "aliases": ["Emaar Beachfront", "Emaar Beach"]
+    },
+    {
+      "arabic": "دار جلوبال لكشري للتطوير العقاري ذ.م.م ش.ش.و",
+      "english": "Dar Global",
+      "aliases": ["Dar Global Luxury", "Trump Tower Dubai"]
+    },
+    {
+      "arabic": "اراد للتطوير ذ م م للشخص الواحد",
+      "english": "Arada",
+      "aliases": ["Arada Development"]
+    },
+    {
+      "arabic": "داماك ورلد ريل استيت ش.ذ.م.م",
+      "english": "DAMAC",
+      "aliases": ["Damac World"]
+    },
+    {
+      "arabic": "روف للضيافة ش.ذ.م.م",
+      "english": "Emaar",
+      "aliases": ["Rove Hotels"]
+    },
+    {
+      "arabic": "ديفكو لتطوير العقارات ش.ذ.م.م",
+      "english": "Devco",
+      "aliases": ["Devco Development"]
+    },
+    {
+      "arabic": "ون زعبيل ذ.م.م",
+      "english": "ICD Brookfield",
+      "aliases": ["One Zabeel", "ICD"]
+    },
+    {
+      "arabic": "سيفين مايفير للتطوير العقاري ش.ذ.م.م",
+      "english": "Seven Tides",
+      "aliases": ["Seven Mayfair"]
+    },
+    {
+      "arabic": "مجمع اعمال مركز دبى للسلع المتعدده م.د.م.س",
+      "english": "DMCC",
+      "aliases": ["DMCC Business Park"]
+    },
+    {
+      "arabic": "داماك سي اس ال للاستثمار ش.ذ.م.م",
+      "english": "DAMAC",
+      "aliases": ["Damac CSL"]
+    },
+    {
+      "arabic": "دبي الجنوب للعقارات دي دبليو سي ش.ذ.م.م",
+      "english": "Dubai South Properties",
+      "aliases": ["Dubai South"]
+    },
+    {
+      "arabic": "شركة أبواب العقارية المحدودة (ش.ذ.م.م)",
+      "english": "Abwab Real Estate",
+      "aliases": ["Abwab Properties"]
+    },
+    {
+      "arabic": "بي دي أل أم ريزيدينشال ذ.م.م",
+      "english": "Palma Holding",
+      "aliases": ["PDLM Residential", "Palma"]
+    },
+    {
+      "arabic": "مشاريع وسط دبي ش.ذ.م.م",
+      "english": "Emaar",
+      "aliases": ["Downtown Dubai Projects"]
+    },
+    {
+      "arabic": "الشركة الخليجية للاستثمارات العامة (ش.م.ع)",
+      "english": "GGICO",
+      "aliases": ["Gulf General Investments"]
+    },
+    {
+      "arabic": "دبي بينينسولا ش.ذ.م.م",
+      "english": "Select Group",
+      "aliases": ["Dubai Peninsula", "Peninsula"]
+    },
+    {
+      "arabic": "ام ايه اس للتطوير العقاري ش.ذ.م.م",
+      "english": "MAS Real Estate",
+      "aliases": ["MAS Development"]
+    },
+    {
+      "arabic": "اوريون للتطوير العقاري ش.ذ.م.م",
+      "english": "Orion Real Estate",
+      "aliases": ["Orion Development"]
+    },
+    {
+      "arabic": "مراس باي أند ريزيدنس ش.ذ.م.م",
+      "english": "Meraas",
+      "aliases": ["Meraas Bay"]
+    },
+    {
+      "arabic": "إستثمار العقارية منطقة حرة ذ.م.م",
+      "english": "Istithmar",
+      "aliases": ["Istithmar Real Estate"]
+    },
+    {
+      "arabic": "جيرسي للتطوير العقاري ش.ذ.م.م",
+      "english": "Gemini",
+      "aliases": ["Jersey Development", "Gemini Developers"]
+    },
+    {
+      "arabic": "مدينه دبى الصناعيه ش ذ م م",
+      "english": "Dubai Industrial City",
+      "aliases": ["DIC"]
+    },
+    {
+      "arabic": "بي جي هوتيل ريزيدينشال ش.ذ.م.م",
+      "english": "Emaar",
+      "aliases": ["BG Hotel Residential"]
+    },
+    {
+      "arabic": "جميرا باي ش.ذ.م.م",
+      "english": "Meraas",
+      "aliases": ["Jumeirah Bay"]
+    },
+    {
+      "arabic": "مرسى العرب ريزدنسز ش.ذ.م.م",
+      "english": "Meraas",
+      "aliases": ["Marsa Al Arab Residences"]
+    },
+    {
+      "arabic": "مدينة دبي للغولف  (ش.ذ.م.م)",
+      "english": "Emaar",
+      "aliases": ["Dubai Golf City"]
+    },
+    {
+      "arabic": "جميرا بارك (ش.ذ.م.م)",
+      "english": "Nakheel",
+      "aliases": ["Jumeirah Park"]
+    },
+    {
+      "arabic": "الاريام المرحلة الاولى ش.ذ.م.م",
+      "english": "Aldar",
+      "aliases": ["Al Reem Phase 1"]
+    },
+    {
+      "arabic": "ايدن هيلز ش.ذ.م.م",
+      "english": "H&H Development",
+      "aliases": ["Eden Hills", "H&H"]
+    },
+    {
+      "arabic": "ديزرت فالكون للتطوير العقاري ش.ذ.م.م",
+      "english": "Desert Falcon",
+      "aliases": ["Desert Falcon Development"]
+    },
+    {
+      "arabic": "جيه جي اي للعقارات ش.ذ.م.م",
+      "english": "Emaar",
+      "aliases": ["JGE Properties"]
+    },
+    {
+      "arabic": "عزيزي ديفليوبمنتس ش.ذ.م.م",
+      "english": "Azizi",
+      "aliases": ["Azizi Developments"]
+    },
+    {
+      "arabic": "جميرا باي ريزيدينشال ذ.م.م",
+      "english": "Meraas",
+      "aliases": ["Jumeirah Bay Residential"]
+    },
+    {
+      "arabic": "شركة جزر جميرا (ش.ذ.م.م)",
+      "english": "Meraas",
+      "aliases": ["Jumeirah Islands"]
+    },
+    {
+      "arabic": "شركة داماك العقارية (ش.ذ.م.م)",
+      "english": "DAMAC",
+      "aliases": ["DAMAC Properties", "Damac Real Estate"]
+    },
+    {
+      "arabic": "الاريام المرحلة الثانية ش.ذ.م.م",
+      "english": "Aldar",
+      "aliases": ["Al Reem Phase 2"]
+    },
+    {
+      "arabic": "ام دي ان للعقارات ش.ذ.م.م",
+      "english": "MDN Real Estate",
+      "aliases": ["MDN Properties"]
+    },
+    {
+      "arabic": "مرسى العرب ش.ذ.م.م",
+      "english": "Meraas",
+      "aliases": ["Marsa Al Arab"]
+    },
+    {
+      "arabic": "كريك هايتس للعقارات ش.ذ.م.م",
+      "english": "Emaar",
+      "aliases": ["Creek Heights"]
+    },
+    {
+      "arabic": "شركة داماك ايليت للاستثمار ذ.م.م",
+      "english": "DAMAC",
+      "aliases": ["Damac Elite"]
+    },
+    {
+      "arabic": "الفتان العقارية (ش.ذ.م.م)",
+      "english": "Al Fattan",
+      "aliases": ["Al Fattan Properties"]
+    },
+    {
+      "arabic": "اي تي ايه ستار للتطوير العقاري ش.ذ.م.م",
+      "english": "ETA Star",
+      "aliases": ["ETA Star Development"]
+    },
+    {
+      "arabic": "تنميات جلوبل للتطوير العقاري  ش ذ م م",
+      "english": "Tanmiyat",
+      "aliases": ["Tanmiyat Global"]
+    },
+    {
+      "arabic": "كرستال ثري ش.ذ.م.م-منطقة حرة",
+      "english": "Prescott",
+      "aliases": ["Crystal 3", "Prescott Real Estate"]
+    }
+  ]
+}
