@@ -1,0 +1,97 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+eggs/
+*.egg-info/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Node
+node_modules/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+secrets.json
+
+# Data - exclude large or generated data by default
+Raw Data/
+Data/cleaned/
+Data/raw*/
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+backend/venv/
+
+# Node / Next.js
+node_modules/
+frontend/node_modules/
+.next/
+frontend/.next/
+out/
+dist/
+build/
+
+# Logs / artifacts
+*.log
+lightning_logs/
+backend/lightning_logs/
+
+# Model artifacts (DO NOT COMMIT)
+backend/models/*.ckpt
+backend/models/**/*.ckpt
+backend/models/**/*.csv
+Docs/Data_docs/Colab_Training_v2/*.csv
+
+# Data (DO NOT COMMIT)
+Data/
+!Data/lookups/
+data_profiles/
+
+# Keep lookup configuration files
+!Data/lookups/*.json
+!Data/lookups/*.csv
+
+# Large data files (DO NOT COMMIT)
+Data/cleaned/
+Data/raw/
+Data/tft/
+**/*.xlsx
+**/*.xls
+**/*.parquet
+**/*.feather
+**/*.pdf
+
+# Env / secrets
+.env
+.env.*

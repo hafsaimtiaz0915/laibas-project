@@ -1,0 +1,97 @@
+# Developer Segmentation Audit (RAW → Training)
+
+This audit compares **RAW Transactions brand signals** (project/building names) to **training data developer series**.
+
+## Training series presence (are brands first-class?)
+
+| brand | training_rows | training_groups |
+| --- | --- | --- |
+| Binghatti | 1513 | 53 |
+| Danube | 1439 | 64 |
+| Ellington | 395 | 36 |
+| Damac | 962 | 23 |
+| Emaar | 8577 | 100 |
+
+
+## DAMAC consolidation leakage check (registered entities → brand)
+
+| damac_registered_rows | damac_leaked_rows | damac_leaked_developer_names |
+| --- | --- | --- |
+| 962 | 0 |  |
+
+
+## EMAAR consolidation leakage check (registered entities → brand)
+
+| emaar_registered_rows | emaar_non_emaar_developer_name_rows | non_emaar_developer_name_top |
+| --- | --- | --- |
+| 8595 | 18 | Binghatti |
+
+
+## RAW alias-hit volume (how many transactions mention the brand?)
+
+| brand | raw_alias_hit_rows |
+| --- | --- |
+| Damac | 80378 |
+| Binghatti | 33108 |
+| Danube | 18487 |
+| Ellington | 2735 |
+
+
+## Dominant registered-under per area (RAW)
+
+Columns: `tot`=alias-hit rows in area, `registered_under`=dominant master developer, `share`=dominance share.
+
+| brand | area_name_en | registered_under | n | tot | share |
+| --- | --- | --- | --- | --- | --- |
+| Binghatti | Al Barsha South Fourth | قرية جميرا (ش.ذ.م.م) | 13016 | 13802 | 0.9430517316330966 |
+| Binghatti | Business Bay | الخليج التجاري (ش.ذ.م.م) | 5741 | 6747 | 0.8508966948273307 |
+| Binghatti | Al Jadaf | مدينه دبى الطبيه منطقه حرة - ذ.م.م. | 3327 | 3672 | 0.9060457516339869 |
+| Binghatti | Al Barshaa South Second | دى اتش ايه ام منطقه حره - ذ.م.م | 3094 | 3094 | 1.0 |
+| Binghatti | Nadd Hessa | سلطة دبي للمناطق الإقتصادية المتكاملة | 1928 | 1928 | 1.0 |
+| Binghatti | Me'Aisem First | تيكوم للإستثمارات منطقة حرة- ذ.م.م | 1674 | 1674 | 1.0 |
+| Binghatti | Al Barsha South Fifth | شركة نخيل (ش.م.خ) | 1087 | 1087 | 1.0 |
+| Binghatti | Burj Khalifa | اعمار العقارية (ش . م. ع) | 523 | 523 | 1.0 |
+| Binghatti | Al Hebiah Fourth | مدينة دبي الرياضية (ش. ذ. م. م) | 356 | 356 | 1.0 |
+| Binghatti | Wadi Al Safa 5 | دبي لاند ريزيدنسز (ش.ذ.م.م) | 219 | 219 | 1.0 |
+| Binghatti | Wadi Al Safa 3 | ليوان(ش.ذ.م.م.) | 6 | 6 | 1.0 |
+| Damac | Al Hebiah Third | داماك كريسنت للعقارات (ش.ذ.م.م) | 16330 | 19704 | 0.8287657328461226 |
+| Damac | Al Hebiah Fifth | واحة الجزيرة العقارية (ش.ذ.م.م) | 14480 | 14480 | 1.0 |
+| Damac | Madinat Hind 4 | شركة الخط الامامي لادارة الاستثمار ش.ذ.م.م | 13999 | 14212 | 0.9850126653532226 |
+| Damac | Al Yelayiss 1 | شركة داماك ايليت للاستثمار ذ.م.م | 5527 | 6293 | 0.878277451136183 |
+| Damac | Dubai Investment Park Second | داماك ميري للاستثمار ش.ذ.م.م | 4031 | 5965 | 0.6757753562447611 |
+| Damac | Al Yufrah 2 | شركة الخط الامامي لادارة الاستثمار ش.ذ.م.م | 5613 | 5613 | 1.0 |
+| Damac | Business Bay | الخليج التجاري (ش.ذ.م.م) | 5311 | 5311 | 1.0 |
+| Damac | Al Yufrah 3 | شركة الخط الامامي لادارة الاستثمار ش.ذ.م.م | 3550 | 3550 | 1.0 |
+| Damac | Marsa Dubai | اعمار العقارية (ش . م. ع) | 1268 | 2990 | 0.4240802675585284 |
+| Damac | Madinat Dubai Almelaheyah | مدينة دبي الملاحية م م ح | 969 | 969 | 1.0 |
+| Damac | Al Wasl | مراس العقارية (ش.ذ.م.م) | 926 | 926 | 1.0 |
+| Damac | Al Safouh Second | دى اتش ايه ام منطقه حره - ذ.م.م | 360 | 360 | 1.0 |
+| Damac | Burj Khalifa | الخليج التجاري (ش.ذ.م.م) | 5 | 5 | 1.0 |
+| Danube | Jabal Ali First | الفرجان ( ش.ذ.م.م ) | 2496 | 2496 | 1.0 |
+| Danube | Al Barsha South Fourth | قرية جميرا (ش.ذ.م.م) | 2448 | 2448 | 1.0 |
+| Danube | Al Thanyah Fifth | مركز دبي للسلع المتعددة | 2244 | 2244 | 1.0 |
+| Danube | Al Warsan First | انترناشونال سيتي ( ش.ذ.م.م ) | 1608 | 2021 | 0.7956457199406235 |
+| Danube | Madinat Dubai Almelaheyah | مدينة دبي الملاحية م م ح | 1926 | 1926 | 1.0 |
+| Danube | Business Bay | الخليج التجاري (ش.ذ.م.م) | 1811 | 1811 | 1.0 |
+| Danube | Nadd Hessa | سلطة دبي للمناطق الإقتصادية المتكاملة | 1800 | 1800 | 1.0 |
+| Danube | Al Hebiah Fourth | مدينة دبي الرياضية (ش. ذ. م. م) | 1347 | 1347 | 1.0 |
+| Danube | Al Barshaa South Third | ليوان(ش.ذ.م.م.) | 992 | 992 | 1.0 |
+| Danube | Al Barsha South Fifth | قرية جميرا (ش.ذ.م.م) | 741 | 741 | 1.0 |
+| Danube | Al Barshaa South Second | تيكوم للإستثمارات منطقة حرة- ذ.م.م | 661 | 661 | 1.0 |
+| Ellington | Al Thanyah Fifth | مركز دبي للسلع المتعددة | 844 | 844 | 1.0 |
+| Ellington | Hadaeq Sheikh Mohammed Bin Rashid | دبي هيلز استيت ش.ذ.م.م | 733 | 733 | 1.0 |
+| Ellington | Bukadra | مجموعة ميدان (ش.ذ.م.م) | 379 | 379 | 1.0 |
+| Ellington | Palm Deira | شركة نخيل (ش.م.خ) | 218 | 218 | 1.0 |
+| Ellington | Palm Jumeirah | شركة النخلة - جميرا (ش.ذ.م.م) | 191 | 191 | 1.0 |
+| Ellington | Wadi Al Safa 3 | مجموعة ميدان (ش.ذ.م.م) | 172 | 172 | 1.0 |
+| Ellington | Al Barsha South Fourth | قرية جميرا (ش.ذ.م.م) | 165 | 165 | 1.0 |
+| Ellington | Saih Shuaib 2 | دى اتش ايه ام منطقه حره - ذ.م.م | 33 | 33 | 1.0 |
+
+
+## Gaps: areas with RAW alias hits but no `registered_under_by_area` rule
+
+✓ No gaps found for Binghatti/Danube/Ellington.
+
+## Ambiguity flags (needs manual review)
+
+✓ No high-volume ambiguous areas found under current thresholds.

@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "rows": 72205,
+    "groups": 1745,
+    "areas": 78,
+    "date_range": "2003-06 -> 2025-12"
+  },
+  "results": [
+    {
+      "name": "Developer segmentation audit script runs",
+      "severity": "HARD",
+      "passed": true,
+      "details": "ok"
+    },
+    {
+      "name": "Developer segmentation audit output exists",
+      "severity": "HARD",
+      "passed": true,
+      "details": "/Users/imraan/Desktop/Properly/Docs/Data_audits/DEVELOPER_SEGMENTATION_AUDIT.md"
+    },
+    {
+      "name": "Training data exists",
+      "severity": "HARD",
+      "passed": true,
+      "details": "/Users/imraan/Desktop/Properly/Data/tft/tft_training_data.csv"
+    },
+    {
+      "name": "Required columns present",
+      "severity": "HARD",
+      "passed": true,
+      "details": "ok"
+    },
+    {
+      "name": "No Unknown developers",
+      "severity": "HARD",
+      "passed": true,
+      "details": "Unknown rows=0"
+    },
+    {
+      "name": "No UNMAPPED_DEVELOPER__ rows",
+      "severity": "HARD",
+      "passed": true,
+      "details": "unmapped rows=0"
+    },
+    {
+      "name": "ALL_DEVELOPERS bucket small (<5%)",
+      "severity": "SOFT",
+      "passed": true,
+      "details": "1791 rows (2.48%)"
+    },
+    {
+      "name": "Lifecycle reg_type has both OffPlan and Ready",
+      "severity": "HARD",
+      "passed": true,
+      "details": "{'Ready': 46108, 'OffPlan': 26097}"
+    },
+    {
+      "name": "DLD OffPlan after handover is tracked",
+      "severity": "INFO",
+      "passed": true,
+      "details": "flagged series-rows=7370 (10.21%)"
+    },
+    {
+      "name": "median_price within [100, 50k] AED/sqft",
+      "severity": "HARD",
+      "passed": true,
+      "details": "low=0, high=0"
+    },
+    {
+      "name": "median_rent non-negative",
+      "severity": "HARD",
+      "passed": true,
+      "details": "neg=0"
+    },
+    {
+      "name": "median_rent not absurd (>2M)",
+      "severity": "SOFT",
+      "passed": true,
+      "details": ">2M rows=0"
+    },
+    {
+      "name": "units_completing has signal (non-zero rows)",
+      "severity": "SOFT",
+      "passed": true,
+      "details": "nonzero=8810 (12.20%)"
+    },
+    {
+      "name": "Group history <12 months (monitor)",
+      "severity": "INFO",
+      "passed": true,
+      "details": "599/1745 groups (34.33%)"
+    },
+    {
+      "name": "Group history <24 months (monitor)",
+      "severity": "INFO",
+      "passed": true,
+      "details": "888/1745 groups (50.89%)"
+    }
+  ]
+}

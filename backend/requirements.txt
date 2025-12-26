@@ -1,0 +1,34 @@
+# FastAPI Backend Dependencies
+fastapi==0.104.1
+uvicorn==0.24.0
+pydantic==2.5.2
+pydantic-settings==2.1.0
+python-multipart==0.0.6
+python-jose[cryptography]==3.3.0
+
+# OpenAI
+openai==1.6.0
+
+# Supabase (1.x uses requests, 2.x uses httpx which has proxy issues on Railway)
+supabase==1.2.0
+
+# Data Processing
+pandas==2.1.3
+numpy==1.26.2
+
+# Fuzzy Matching
+rapidfuzz==3.5.2
+
+# ML (only needed for inference - CPU only)
+torch==2.1.0
+pytorch-forecasting==1.4.0
+lightning==2.4.0
+
+# PDF Generation (optional - server-side)
+# weasyprint==60.1
+# reportlab==4.0.7
+
+# Testing
+pytest==7.4.3
+httpx==0.24.1
+
